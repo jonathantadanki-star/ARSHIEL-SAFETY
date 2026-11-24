@@ -1,0 +1,2032 @@
+# ARSHIEL SAFETY
+# COMPLETE MASTER DEVELOPMENT PROMPT
+## AI-POWERED ENTERPRISE EHS MANAGEMENT PLATFORM
+
+**Application Name:** ARSHIEL SAFETY  
+**Tagline:** One Platform. All Safety Operations. AI-Powered Prevention.  
+**Owner & Platform Creator:** Jonathan Thadanki  
+**Copyright:** © 2026 ARSHIEL SAFETY  
+**Product Type:** Enterprise EHS SaaS + AI Safety Management System  
+**Primary Market:** India and Global Industries  
+**Application:** Web + Mobile Responsive + Android-ready
+
+==================================================
+PART 1 – PROJECT VISION AND REFERENCE REQUIREMENTS
+==================================================
+
+Act as a Senior Enterprise Software Architect, Full-Stack Developer, AI Engineer, UI/UX Designer, Database Architect and EHS Management Specialist.
+
+Develop ARSHIEL SAFETY as a complete, scalable, secure and fully functional AI-powered Enterprise EHS Management Platform.
+
+This must NOT be just a static dashboard, landing page, frontend prototype or collection of non-functional buttons.
+
+Build a real application with:
+- Working frontend
+- Working backend
+- Real database
+- Authentication
+- Role-based access
+- Dynamic Parent-Child Module Builder
+- AI integrations
+- Document management
+- Approval workflows
+- Reporting engine
+- Mobile-responsive interface
+- Persistent records
+- Security and audit trails
+
+PRIMARY REFERENCE MATERIAL:
+
+Use my uploaded ZIP containing 65 reference images, numbered 001.jpeg to 065.jpeg.
+
+Study and use all 65 images in sequence.
+
+Implement the relevant functionality and workflow concepts shown in these images.
+
+IMAGE GROUP 001–003:
+- Advanced Analytics
+- Modular Solutions
+- AI-Assisted Insights
+- ITSM Workflow
+- Identify Risk
+- Control Work
+- Respond
+- Monitor
+- Incident Management
+- Permit to Work
+- Behaviour-Based Safety
+- Safety Audit
+- HAZOP Study
+- HIRA Study
+- Safety KPI Dashboard
+
+IMAGE GROUP 004–010:
+- Incident Reporting
+- Incident Review
+- Investigation Assignment
+- Root Cause Analysis
+- Corrective and Preventive Actions
+- Incident Closure
+- Digital Permit Requests
+- Permit Review
+- Permit Approval
+- Permit Monitoring
+- Permit Closure
+- Hot Work Permit Workflow
+
+IMAGE GROUP 011–015:
+- Missed Observation Tracking
+- Observation Coaching
+- Behaviour-Based Safety
+- Unsafe Condition Reporting
+- Corrective Action Tracking
+- Before-and-After Evidence
+- Observation Analytics
+
+IMAGE GROUP 016–020:
+- Digital Checklists
+- Safety Audits
+- Audit Findings
+- CAPA Generation
+- Compliance Tracking
+- Safety Participation
+- Audit Reports
+- Action Follow-Up
+
+IMAGE GROUP 021–028:
+- Digital HAZOP
+- HIRA
+- Risk Matrix
+- Risk Assessment
+- Hazard Identification
+- Risk Control Measures
+- Risk Register
+- Approval and Review
+- Audit Trails
+
+IMAGE GROUP 029–031:
+- Centralized Data Management
+- Data Integration
+- Live Safety Data
+- Plant-Wise Data
+- Department-Wise Data
+- Automated Reports
+- Real-Time Analytics
+- Management Decision Support
+
+IMAGE GROUP 032–048:
+- Enterprise EHS Dashboard
+- Super Admin
+- Multiple Plant Management
+- Safety Forms
+- Permit Registers
+- Permit Details
+- Permit Review and Approval
+- Permit PDF Records
+- Record Management
+- Search and Filtering
+- Status Tracking
+
+IMAGE GROUP 049–063:
+- Incident Management Dashboard
+- DART Dashboard
+- Incident Records
+- Observation Reports
+- KPI Cards
+- Trend Charts
+- Bar Charts
+- Line Charts
+- Risk Analysis
+- Record Details
+- Report Generation
+- Export and Download
+
+IMAGE 064:
+Include all 20 key Permit to Work aspects:
+1. Scope of Work
+2. Work Location
+3. Date and Validity Period
+4. Authorized Issuing Authority
+5. Performing Authority / Work Supervisor
+6. Task Risk Assessment
+7. Method Statement
+8. Identified Hazards
+9. Required Control Measures
+10. Isolation and LOTO
+11. Gas Testing
+12. Required PPE
+13. Tools and Equipment Checks
+14. Competent and Authorized Workers
+15. Emergency and Rescue Arrangements
+16. SIMOPS / Nearby Activities
+17. Worksite Inspection and Authorization
+18. Suspension, Handover and Extension
+19. Work Complete and Area Safe Reinstated
+20. Closure and Reinstatement
+
+Also include Toolbox Talk and Pre-Work Briefing as a separate mandatory permit-related checkpoint. Preserve the source image's duplicate numbering as a source-image numbering error, not as duplicate functionality.
+
+Three Golden Rules:
+- No Permit, No Work.
+- Check Permit Before Start.
+- Stop Work If Conditions Change.
+
+IMAGE 065:
+Implement comprehensive individual permit records, form details, permit status, approval details and record tracking.
+
+Do not simply reproduce images. Convert their functionality into working application modules and workflows.
+
+EXTERNAL REFERENCE WEBSITES:
+
+Use relevant functional concepts from:
+
+1. ARSHIEL reference application:
+https://ais-dev-2ga3jjso7t6vh6t2a3jrzj-452030319415.asia-southeast1.run.app/#ehs
+
+2. AI Safety Observation:
+https://www.autovrse.com/ai-safety-observation
+
+3. Digital Work Permit:
+https://www.qrdesk.co/features/work-permit
+
+4. Safety Management Platform:
+https://www.safetyfirst.app/
+
+Create an original product with ARSHIEL branding. Do not copy protected source code, logos or trademarks.
+
+==================================================
+PART 2 – BRANDING AND APPLICATION DESIGN
+==================================================
+
+Application Name: ARSHIEL SAFETY.
+
+Owner: Jonathan Thadanki.
+
+Show owner details in:
+- Login screen footer
+- About application page
+- Administration settings
+- Application footer
+
+Design a premium enterprise interface.
+
+Brand colours:
+- Dark Navy
+- Professional Safety Green
+- White
+- Light Grey
+- Warning Amber
+- Critical Red
+
+Design requirements:
+- Professional enterprise sidebar
+- Expandable navigation
+- Dashboard cards
+- Interactive tables
+- Search and filter
+- Charts and graphs
+- Modern forms
+- Professional PDF reports
+- Responsive mobile interface
+- Consistent icons
+- Clean typography
+
+Create a customizable company branding system.
+
+Each subscribing organization must be able to configure its own:
+- Company Name
+- Company Logo
+- Brand Colours
+- Plants
+- Departments
+- Company Profile
+- Report Header
+- Report Footer
+
+Keep ARSHIEL SAFETY as the platform identity.
+
+==================================================
+PART 3 – DYNAMIC UNLIMITED MODULE BUILDER
+==================================================
+
+THIS IS THE MOST IMPORTANT CORE REQUIREMENT.
+
+Develop a complete Dynamic Parent-Child-Subchild Module Builder.
+
+Do not hardcode modules.
+
+Do not limit the number of children.
+
+Do not limit hierarchy to three levels.
+
+Use a recursive hierarchical database structure.
+
+Example:
+
+ARSHIEL SAFETY
+  |
+  |-- SAFETY MANAGEMENT
+  |     |-- Incident Management
+  |     |     |-- Near Miss
+  |     |     |-- Injury Report
+  |     |     |-- Property Damage
+  |     |     |-- RCA
+  |     |     |-- CAPA
+  |     |
+  |     |-- Permit to Work
+  |     |     |-- Hot Work
+  |     |     |-- Cold Work
+  |     |     |-- Work at Height
+  |     |     |-- Confined Space
+  |     |     |-- Electrical Work
+  |     |     |-- Excavation
+  |     |     |-- Lifting
+  |     |     |-- LOTO
+  |     |
+  |     |-- Risk Assessment
+  |     |-- Safety Audits
+  |     |-- Safety Observations
+  |     |-- Training
+  |     |-- Equipment Inspection
+  |
+  |-- ENVIRONMENT MANAGEMENT
+  |
+  |-- HEALTH MANAGEMENT
+  |
+  |-- CONTRACTOR MANAGEMENT
+  |
+  |-- TRAINING MANAGEMENT
+  |
+  |-- DOCUMENT MANAGEMENT
+
+Allow unlimited:
+- Parent Modules
+- Child Modules
+- Sub-Child Modules
+- Nested Modules
+- Additional hierarchy levels
+
+MODULE BUILDER FEATURES:
+
+1. Create Parent Module
+2. Create Child Module
+3. Create Sub-Child Module
+4. Create Nested Module
+5. Edit Module
+6. Rename Module
+7. Delete Module
+8. Archive Module
+9. Restore Module
+10. Duplicate Module
+11. Move Module to Another Parent
+12. Drag and Drop Reordering
+13. Enable / Disable Module
+14. Publish / Unpublish
+15. Configure Module Icon
+16. Configure Module Colour
+17. Configure Module Description
+18. Configure Module Code
+19. Configure Module Visibility
+20. Assign User Roles
+21. Assign Permissions
+22. Assign Plants
+23. Assign Departments
+24. Create Custom Forms
+25. Create Custom Checklists
+26. Configure Approval Workflows
+27. Configure Reports
+28. Configure Notifications
+
+MODULE BUILDER UI:
+
+LEFT PANEL:
+- Search Modules
+- Expand All
+- Collapse All
+- Tree Navigation
+- Add Parent
+- Expandable Children
+- Drag and Drop
+
+RIGHT PANEL:
+- Module Details
+- Parent Selection
+- Module Name
+- Module Code
+- Description
+- Icon
+- Colour
+- Status
+- Visibility
+- Access Permissions
+- Custom Forms
+- Checklists
+- Workflow
+- Reports
+
+Every module must have a three-dot menu with configuration options.
+
+After creating a module, automatically update:
+- Sidebar
+- Module Explorer
+- Dashboard navigation
+- Permission configuration
+- Reports
+- Mobile navigation
+
+Do not require coding to create or configure modules.
+
+Add dependency checks before deletion.
+
+Preserve historical records when modules are archived or disabled.
+
+==================================================
+PART 4 – DATABASE AND BACKEND ARCHITECTURE
+==================================================
+
+Use a scalable structured database.
+
+Preferred architecture:
+- PostgreSQL relational database
+- JSONB for configurable fields
+- UUID primary keys
+- REST APIs or equivalent secure backend
+- Secure file storage
+- Authentication
+- Role-Based Access Control
+- Audit logging
+- Database backups
+
+If the selected builder already provides a managed database such as Firebase, use its supported persistent database and implement equivalent relationships, validations and security rules. Do not create a disconnected second database.
+
+CORE DATABASE TABLES:
+
+1. organizations
+2. business_units
+3. plants
+4. departments
+5. areas
+6. locations
+7. users
+8. roles
+9. permissions
+10. user_roles
+11. modules
+12. module_permissions
+13. module_assignments
+14. module_versions
+15. module_templates
+16. module_forms
+17. form_fields
+18. form_submissions
+19. module_checklists
+20. checklist_items
+21. approval_workflows
+22. approval_steps
+23. approval_instances
+24. approval_history
+25. module_reports
+26. documents
+27. notifications
+28. audit_logs
+
+MODULES TABLE:
+
+- id
+- organization_id
+- parent_id
+- module_code
+- module_name
+- slug
+- description
+- module_type
+- icon
+- colour
+- display_order
+- is_active
+- is_visible
+- is_system
+- configuration
+- created_by
+- updated_by
+- created_at
+- updated_at
+- deleted_at
+
+Parent ID must reference another module ID.
+
+NULL parent ID indicates a root Parent Module.
+
+Implement:
+- Foreign keys
+- Indexes
+- Unique module codes per organization
+- Circular hierarchy prevention
+- Tenant isolation
+- Soft deletion
+- Transaction-safe updates
+- Audit trails
+
+CUSTOM FORM ENGINE:
+
+Allow unlimited configurable fields.
+
+Supported types:
+- Text
+- Textarea
+- Number
+- Date
+- Time
+- DateTime
+- Dropdown
+- Multi-select
+- Radio
+- Checkbox
+- File Upload
+- Image Upload
+- Video Upload
+- Signature
+- QR Code
+- Location
+- User Selection
+- Department Selection
+- Plant Selection
+
+Support:
+- Mandatory fields
+- Optional fields
+- Conditional fields
+- Validation rules
+- Default values
+- Custom dropdown values
+- Field ordering
+- Form templates
+- Form versions
+- Form preview
+
+Store configurable form submissions as structured JSON data with searchable key fields and proper indexing.
+
+APPROVAL ENGINE:
+
+Create configurable workflows for every module.
+
+Support:
+- Sequential approvals
+- Parallel approvals
+- Conditional approvals
+- Multi-level approvals
+- Approve
+- Reject
+- Resubmit
+- Delegate
+- Escalate
+- Suspend
+- Cancel
+- Close
+
+Store complete approval history.
+
+SECURITY:
+
+Use organization-level tenant isolation.
+
+A company must never access another company's records.
+
+Implement backend authorization and database security rules, not just frontend menu hiding.
+
+==================================================
+PART 5 – COMPANY, PLANT AND USER MANAGEMENT
+==================================================
+
+Create a Super Admin control centre.
+
+Hierarchy:
+
+Platform
+  → Organization
+    → Business Unit
+      → Plant
+        → Department
+          → Area
+            → Location
+              → User
+
+Allow multiple organizations and multiple plants.
+
+Each Parent must support unlimited Child records.
+
+Create the following roles:
+
+1. Super Admin
+2. Company Admin
+3. Corporate EHS Head
+4. Plant Head
+5. EHS Manager
+6. Safety Manager
+7. Safety Officer
+8. Department Head
+9. Engineer
+10. Supervisor
+11. Contractor Admin
+12. Contractor Supervisor
+13. Employee
+14. Security Officer
+15. Auditor
+16. Management Viewer
+
+Allow unlimited custom roles.
+
+Configure permissions:
+
+- View
+- Create
+- Edit
+- Delete
+- Submit
+- Approve
+- Reject
+- Export
+- Download
+- Configure
+- Manage
+
+Support plant-wise, department-wise and module-wise permissions.
+
+==================================================
+PART 6 – MAIN EHS DASHBOARD
+==================================================
+
+Build an enterprise EHS dashboard inspired by reference images 032–063.
+
+KPI CARDS:
+
+- Total Employees
+- Total Contractors
+- Total Manhours
+- LTI
+- TRIR
+- LTIFR
+- DART
+- First Aid Cases
+- Medical Treatment Cases
+- Near Miss
+- Fatalities
+- Property Damage
+- Unsafe Acts
+- Unsafe Conditions
+- Open CAPA
+- Overdue CAPA
+- Active Permits
+- Expired Permits
+- Pending Approvals
+- Training Compliance
+- Inspection Compliance
+- Audit Compliance
+
+DASHBOARD FEATURES:
+
+- Daily
+- Weekly
+- Monthly
+- Quarterly
+- Yearly
+- Plant-Wise
+- Department-Wise
+- Contractor-Wise
+- Business Unit-Wise
+
+Charts:
+- Incident Trend
+- Observation Trend
+- LTI Trend
+- DART Trend
+- Risk Distribution
+- CAPA Status
+- Permit Status
+- Training Completion
+- Audit Completion
+- Contractor Performance
+
+Use real database calculations.
+
+Do not hardcode dashboard KPI values.
+
+Allow dashboard widget customization.
+
+==================================================
+PART 7 – AI SAFETY OBSERVATION
+==================================================
+
+Develop an AI-powered visual safety observation system.
+
+INPUT METHODS:
+- Mobile Camera
+- Photograph Upload
+- Video Upload
+- Voice Recording
+- Text Input
+- Tablet Camera
+- Supported CCTV Integration
+- Supported Body Camera Integration
+
+AI ANALYSIS:
+
+Identify potential:
+- Unsafe Acts
+- Unsafe Conditions
+- PPE Non-Compliance
+- Missing Safety Helmet
+- Missing Safety Shoes
+- Missing Safety Gloves
+- Missing Safety Harness
+- Work at Height Risks
+- Electrical Hazards
+- Fire Hazards
+- Poor Housekeeping
+- Blocked Emergency Exits
+- Machine Guarding Issues
+- Lifting Hazards
+- Chemical Handling Hazards
+- Confined Space Risks
+- Vehicle and Pedestrian Risks
+- Slip, Trip and Fall Hazards
+
+AI OUTPUT:
+
+1. Observation Number
+2. Observation Title
+3. Description
+4. Hazard Category
+5. Unsafe Act / Unsafe Condition
+6. Potential Consequence
+7. Suggested Severity
+8. Suggested Likelihood
+9. Suggested Risk Level
+10. Immediate Action
+11. Corrective Action
+12. Preventive Action
+13. Responsible Department
+14. Suggested Action Owner
+15. Target Closure Date
+16. Evidence
+17. Verification Details
+
+WORKFLOW:
+
+Capture → AI Analysis → Human Verification → Risk Classification → Assignment → Corrective Action → Evidence Upload → Verification → Closure.
+
+Include:
+- Before and After Photos
+- Action Tracking
+- Repeat Observation Tracking
+- Coaching
+- Behaviour-Based Safety
+- Department Performance
+- Observation Analytics
+
+Use evidence-based AI analysis.
+
+Clearly indicate uncertainty and confidence where available.
+
+Do not automatically declare an employee guilty of a safety violation based only on an image.
+
+A qualified person must validate AI-generated findings.
+
+==================================================
+PART 8 – INCIDENT MANAGEMENT
+==================================================
+
+Create a complete incident management system.
+
+Incident types:
+- Fatality
+- Lost Time Injury
+- Restricted Work Case
+- Medical Treatment Case
+- First Aid Case
+- Near Miss
+- Property Damage
+- Fire
+- Environmental Incident
+- Dangerous Occurrence
+- Electrical Incident
+- Vehicle Accident
+- Contractor Incident
+- Occupational Illness
+- Other
+
+INCIDENT FORM:
+
+- Incident Number
+- Date
+- Time
+- Location
+- Plant
+- Department
+- Employee / Contractor
+- Incident Category
+- Description
+- Injured Person Details
+- Witness Details
+- Immediate Actions
+- Photographs
+- Videos
+- Supporting Documents
+
+INVESTIGATION:
+
+- Investigation Team
+- Timeline
+- Evidence
+- Witness Statements
+- 5 Why Analysis
+- Fishbone Analysis
+- Direct Causes
+- Root Causes
+- Contributing Factors
+- Corrective Actions
+- Preventive Actions
+- Responsible Persons
+- Due Dates
+- Verification
+- Final Approval
+- Closure
+
+WORKFLOW:
+
+Report → Review → Investigation → RCA → CAPA → Verification → Approval → Closure.
+
+Generate professional investigation reports.
+
+==================================================
+PART 9 – RCA AND CAPA MANAGEMENT
+==================================================
+
+Build separate RCA and CAPA management functionality.
+
+RCA methods:
+- 5 Why
+- Fishbone
+- Human Factors
+- Equipment Failure
+- Process Failure
+- Training Gaps
+- Procedure Gaps
+- Management System Failures
+
+CAPA workflow:
+
+Creation → Assignment → Action Plan → Implementation → Evidence → Verification → Approval → Closure.
+
+Features:
+- Action Number
+- Source Record
+- Responsible Person
+- Target Date
+- Priority
+- Status
+- Evidence
+- Effectiveness Review
+- Overdue Alerts
+- Escalation
+- History
+
+==================================================
+PART 10 – DIGITAL PERMIT TO WORK
+==================================================
+
+Build a complete Digital PTW system.
+
+PERMIT TYPES:
+
+1. Hot Work Permit
+2. Cold Work Permit
+3. Work at Height
+4. Confined Space Entry
+5. Electrical Work Permit
+6. Excavation Permit
+7. Lifting Permit
+8. Critical Lifting Permit
+9. LOTO Permit
+10. Line Breaking Permit
+11. Radiography Permit
+12. Chemical Handling Permit
+13. Pressure System Work
+14. Fire System Isolation
+15. General Work Permit
+16. Custom Permit Types
+
+Allow unlimited custom permit types.
+
+PERMIT FORM:
+
+- Unique Permit Number
+- Company
+- Plant
+- Department
+- Contractor
+- Worker Details
+- Scope of Work
+- Work Location
+- Date and Validity
+- Issuing Authority
+- Performing Authority
+- Work Supervisor
+- Task Risk Assessment
+- Method Statement
+- Hazards
+- Control Measures
+- Isolation and LOTO
+- Gas Testing
+- PPE
+- Tools and Equipment
+- Worker Competency
+- Emergency Arrangements
+- SIMOPS
+- Worksite Inspection
+- Toolbox Talk
+- Permit Approval
+- Work Monitoring
+- Suspension
+- Handover
+- Extension
+- Closure
+- Reinstatement
+
+PTW WORKFLOW:
+
+Request → JSA/HIRA → Safety Review → Department Review → Approval → QR Generation → Work Authorization → Monitoring → Suspension / Revalidation if necessary → Closure.
+
+Support configurable approval levels.
+
+Example:
+
+Supervisor → Department Manager → Safety Officer → Plant Head.
+
+Include:
+- QR Permit
+- QR Verification
+- Permit Expiry
+- Permit Extension
+- Permit Suspension
+- Permit Cancellation
+- Permit Revalidation
+- Permit Closure
+- Permit PDF
+- Permit Register
+- Approval History
+
+An expired or suspended permit must not authorize work.
+
+Do not permit work before mandatory approvals and safety prerequisites are verified.
+
+==================================================
+PART 11 – LOTO MANAGEMENT
+==================================================
+
+Create a separate LOTO module.
+
+Include:
+- Equipment Identification
+- Energy Source Identification
+- Electrical Isolation
+- Mechanical Isolation
+- Hydraulic Isolation
+- Pneumatic Isolation
+- Chemical Isolation
+- Stored Energy
+- Isolation Points
+- Lock Number
+- Tag Number
+- Authorized Employee
+- Zero Energy Verification
+- Group LOTO
+- Lock Removal
+- Restoration
+- Approval History
+
+==================================================
+PART 12 – RISK ASSESSMENT
+==================================================
+
+Create a complete Risk Assessment Management System.
+
+Modules:
+- HIRA
+- HAZOP
+- JSA
+- JHA
+- SWMS
+- LMRA
+- Task Risk Assessment
+- Environmental Risk Assessment
+- Ergonomic Risk Assessment
+- Dynamic Risk Assessment
+- Pre-Task Risk Assessment
+
+RISK ASSESSMENT FIELDS:
+
+- Activity
+- Job Steps
+- Hazard
+- Potential Consequences
+- Existing Controls
+- Likelihood
+- Severity
+- Initial Risk Score
+- Additional Controls
+- Residual Likelihood
+- Residual Severity
+- Residual Risk
+- Responsible Person
+- Review Date
+- Approval
+- Revision
+
+Provide configurable risk matrices.
+
+Default formula:
+
+Risk Score = Likelihood × Severity.
+
+Allow configurable scales and acceptance criteria.
+
+Provide risk heat maps and risk registers.
+
+AI can suggest hazards and controls, but qualified EHS professionals must review and approve them.
+
+==================================================
+PART 13 – SAFETY AUDITS AND INSPECTIONS
+==================================================
+
+Create a comprehensive Audit and Inspection System.
+
+AUDIT TYPES:
+
+- Daily Safety Inspection
+- Weekly Safety Inspection
+- Monthly Safety Inspection
+- Workplace Inspection
+- Fire Safety Audit
+- Electrical Safety Audit
+- Machine Safety Audit
+- PPE Inspection
+- Housekeeping Inspection
+- Contractor Safety Audit
+- Construction Safety Audit
+- Warehouse Audit
+- Environmental Audit
+- ISO 45001 Audit
+- ISO 14001 Audit
+- Legal Compliance Audit
+- Behaviour-Based Safety Audit
+
+FEATURES:
+
+- Audit Templates
+- Checklist Builder
+- Unlimited Questions
+- Yes / No / NA
+- Compliant / Non-Compliant
+- Risk Rating
+- Photograph Upload
+- Comments
+- Findings
+- CAPA Generation
+- Auditor Assignment
+- Audit Calendar
+- Audit Approval
+- Audit Closure
+- Audit Reports
+
+Allow custom templates and recurring schedules.
+
+==================================================
+PART 14 – EQUIPMENT AND MACHINERY INSPECTION
+==================================================
+
+Create an equipment register and inspection system.
+
+Include:
+
+- Cranes
+- Hoists
+- Forklifts
+- Lifting Tools and Tackles
+- Pressure Vessels
+- Air Compressors
+- DG Sets
+- Electrical Panels
+- Fire Extinguishers
+- Fire Hydrant Systems
+- Emergency Equipment
+- Elevators
+- Scaffolding
+- Ladders
+- Welding Machines
+- Other Equipment
+
+Each asset must have:
+
+- Equipment ID
+- Asset Number
+- Location
+- Inspection Frequency
+- Inspection Date
+- Next Due Date
+- Certification
+- Inspector
+- Checklist
+- Defects
+- Corrective Actions
+- Status
+- Supporting Documents
+
+Automatic inspection reminders.
+
+==================================================
+PART 15 – CONTRACTOR AND WORKER MANAGEMENT
+==================================================
+
+Create a complete Contractor Management System.
+
+CONTRACTOR MODULE:
+
+- Vendor Registration
+- Company Profile
+- Statutory Details
+- Insurance
+- GST
+- ESI
+- PF
+- Applicable Licences
+- Compliance Documents
+- Contractor Supervisor
+- Contractor Evaluation
+
+WORKER MODULE:
+
+- Worker Registration
+- Worker ID
+- Photograph
+- Contractor Mapping
+- Skill Category
+- Qualification
+- Medical Fitness
+- Training Records
+- Induction
+- Insurance Information
+- Permit Mapping
+- Attendance
+- Manhours
+- Entry / Exit
+
+Allow unlimited contractors and workers.
+
+Include document expiry alerts and QR verification.
+
+==================================================
+PART 16 – TRAINING AND COMPETENCY MANAGEMENT
+==================================================
+
+Create a Training Management System.
+
+Training categories:
+
+- Employee Induction
+- Contractor Induction
+- Visitor Induction
+- Toolbox Talk
+- Fire Safety
+- First Aid
+- Work at Height
+- Confined Space
+- Electrical Safety
+- LOTO
+- Chemical Safety
+- Emergency Response
+- Equipment Operator Training
+- Specialized Safety Training
+
+Features:
+
+- Training Calendar
+- Training Materials
+- PPT Upload
+- Video Upload
+- Attendance
+- Quiz
+- Assessment
+- Certificates
+- Competency Matrix
+- Renewal Date
+- Training Effectiveness
+- Expiry Alerts
+
+==================================================
+PART 17 – EMERGENCY AND FIRE SAFETY
+==================================================
+
+Create Emergency Preparedness and Response modules.
+
+Include:
+
+- Emergency Response Plan
+- Fire Emergency
+- Chemical Spill
+- Gas Leak
+- Electrical Emergency
+- Medical Emergency
+- Evacuation
+- Natural Disaster
+- Emergency Contacts
+- Assembly Points
+- Fire Equipment Register
+- Mock Drills
+- Drill Attendance
+- Response Time
+- Lessons Learned
+- Corrective Actions
+
+==================================================
+PART 18 – ENVIRONMENT AND SUSTAINABILITY
+==================================================
+
+Create an Environmental Management System.
+
+Include:
+
+- Waste Management
+- Hazardous Waste
+- Air Emissions
+- Water Consumption
+- Wastewater
+- Noise Monitoring
+- Chemical Management
+- Spill Management
+- Energy Consumption
+- Carbon Emissions
+- Environmental Monitoring
+- Environmental Legal Compliance
+
+Include:
+- ISO 14001 support
+- ISO 50001 support
+- ESG Reporting
+- GHG Emissions Tracking
+- GRI Reporting Data
+- BRSR Data Management
+- Sustainability KPIs
+
+Make frameworks configurable according to applicable reporting requirements.
+
+==================================================
+PART 19 – LEGAL AND STATUTORY COMPLIANCE
+==================================================
+
+Create a configurable Legal Compliance Register.
+
+Support applicable Indian legal requirements and relevant state-specific requirements.
+
+Include:
+- Occupational Safety, Health and Working Conditions Code, 2020
+- Applicable commencement provisions and rules
+- Factories Act, 1948, where still legally applicable
+- Relevant State Factory Rules
+- Environment Protection Laws
+- Air and Water Pollution Laws
+- Hazardous Waste Rules
+- Fire Safety Requirements
+- Electrical Safety Requirements
+- Applicable Statutory Registers and Returns
+
+Do not assume that every historical law remains independently applicable after legal transitions.
+
+Include:
+
+- Legal Requirement
+- Section
+- Applicability
+- Obligation
+- Responsible Person
+- Frequency
+- Due Date
+- Evidence
+- Compliance Status
+- Non-Compliance
+- Corrective Action
+- Verification
+- Revision History
+
+Require qualified legal/compliance verification.
+
+Do not generate false legal compliance certificates.
+
+==================================================
+PART 20 – DOCUMENT MANAGEMENT
+==================================================
+
+Build a centralized EHS Document Management System.
+
+Include these 23 sections:
+
+1. Policies
+2. OHS Manual
+3. SOPs
+4. Factory Safety Rules
+5. HSE Promotions
+6. Emergency Response
+7. Welfare
+8. Safety Committee
+9. Worker Screening
+10. Inspector Inspection
+11. Equipment Checklists
+12. Risk Management / SWMS
+13. Permit System
+14. Store
+15. Trainings
+16. Induction
+17. Risk Assessment
+18. Statutory Registers
+19. Safety Audits
+20. Test Certifications
+21. Gate Management
+22. Training PPTs
+23. Legal Requirements
+
+Import and preserve the original names and hierarchy from my earlier EHS Excel reference when supplied.
+
+Support:
+- PDF
+- DOCX
+- XLSX
+- PPTX
+- Images
+- Other supported file formats
+
+Document functions:
+- Upload
+- Download
+- Edit Details
+- Replace
+- Version Control
+- Review
+- Approval
+- Expiry
+- Renewal
+- Archive
+- Restore
+- Search
+- Filter
+
+Preserve document statuses:
+- Completed
+- Not Updated
+- Not Started
+- In Progress
+- Under Review
+
+==================================================
+PART 21 – WEEKLY SAFETY TRACKING
+==================================================
+
+Create a dedicated Weekly Safety Tracking System.
+
+Allow Admin to add unlimited weekly activities.
+
+Each activity must support:
+
+- Parent Category
+- Child Category
+- Activity Name
+- Responsible Person
+- Department
+- Plant
+- Target Date
+- Completion Date
+- Status
+- Evidence
+- Remarks
+- Approval
+- Follow-up
+
+Status:
+
+- Not Started
+- In Progress
+- Completed
+- Overdue
+- Under Review
+
+Include:
+- Weekly Dashboard
+- Monthly Summary
+- Annual Summary
+- Completion Percentage
+- Pending Activities
+- Overdue Activities
+- Responsible Person Performance
+
+==================================================
+PART 22 – SAFETY STORE AND PPE MANAGEMENT
+==================================================
+
+Create Safety Store and PPE Inventory modules.
+
+Include:
+
+- Safety Helmets
+- Safety Shoes
+- Safety Gloves
+- Safety Goggles
+- Face Shields
+- Respirators
+- Ear Protection
+- Safety Harnesses
+- Reflective Jackets
+- Safety Uniforms
+- Emergency Supplies
+
+Functions:
+
+- Stock In
+- Stock Out
+- Material Issue
+- Employee Mapping
+- Contractor Mapping
+- Minimum Stock
+- Reorder Alerts
+- Expiry Tracking
+- Inventory Reports
+
+==================================================
+PART 23 – GATE AND VISITOR MANAGEMENT
+==================================================
+
+Create a Gate Management System.
+
+Include:
+
+- Visitor Registration
+- Contractor Entry
+- Worker Entry
+- Vehicle Entry
+- Material Entry
+- Material Exit
+- QR Pass
+- Permit Verification
+- Safety Induction
+- Restricted Area Access
+- Emergency Muster Records
+
+Allow security staff to verify permit and worker authorization.
+
+==================================================
+PART 24 – SAFETY COMMITTEE AND WELFARE
+==================================================
+
+Create:
+
+- Safety Committee
+- Committee Members
+- Meeting Agenda
+- Meeting Minutes
+- Attendance
+- Action Points
+- Responsible Persons
+- Due Dates
+- Closure
+- Employee Feedback
+- Worker Welfare
+- Drinking Water
+- Sanitation
+- Canteen
+- First Aid
+- Medical Facilities
+
+==================================================
+PART 25 – AI SAFETY ASSISTANT
+==================================================
+
+Develop a centralized ARSHIEL AI SAFETY ASSISTANT.
+
+It must support:
+
+- AI Hazard Identification
+- Image Analysis
+- Video Analysis where supported
+- Voice-to-Text
+- HIRA Assistance
+- JSA/JHA Drafting
+- HAZOP Assistance
+- Risk Assessment Suggestions
+- Safety Observation Generation
+- Incident Investigation Assistance
+- RCA Assistance
+- CAPA Recommendations
+- PTW Review Assistance
+- Checklist Generation
+- Toolbox Talk Generation
+- Safety Training Content
+- Audit Findings
+- Legal Information Retrieval
+- EHS Report Generation
+
+KNOWLEDGE BASE:
+
+Allow Super Admin to upload approved:
+
+- Company Safety Policies
+- SOPs
+- HSE Manuals
+- Risk Assessments
+- Permit Templates
+- Checklists
+- Safety Standards
+- Training Materials
+- Legal Reference Documents
+
+AI must use approved company documents when answering company-specific questions.
+
+Show source document references where available.
+
+AI must clearly identify assumptions and uncertainty.
+
+Do not invent regulations, evidence, risk scores or approvals.
+
+All safety-critical AI suggestions require human verification.
+
+==================================================
+PART 26 – ANALYTICS AND MANAGEMENT REPORTS
+==================================================
+
+Build an advanced analytics engine.
+
+Reports:
+
+- EHS KPI Report
+- Incident Report
+- LTI Report
+- TRIR Report
+- LTIFR Report
+- DART Report
+- Near Miss Report
+- Safety Observation Report
+- CAPA Report
+- PTW Report
+- Risk Assessment Report
+- Audit Report
+- Inspection Report
+- Training Report
+- Contractor Report
+- Equipment Inspection Report
+- Environmental Report
+- Legal Compliance Report
+- Plant Performance Report
+- Department Performance Report
+
+Features:
+
+- Interactive Charts
+- Pie Charts
+- Bar Charts
+- Line Charts
+- Trend Analysis
+- Risk Heat Maps
+- Custom Date Filters
+- Plant Filters
+- Department Filters
+- Contractor Filters
+- Export PDF
+- Export Excel
+- Export CSV
+- Scheduled Reports
+
+Calculate KPIs using validated source records and documented formulas.
+
+==================================================
+PART 27 – NOTIFICATIONS AND AUTOMATION
+==================================================
+
+Support:
+
+- In-App Notifications
+- Email Notifications
+- Mobile Push Notifications
+- Approval Reminders
+- Overdue Alerts
+- Permit Expiry Alerts
+- Document Expiry Alerts
+- Training Expiry Alerts
+- Inspection Due Alerts
+- CAPA Due Alerts
+- Emergency Notifications
+
+Provide configurable triggers and escalation rules.
+
+Maintain notification history.
+
+==================================================
+PART 28 – MOBILE APPLICATION
+==================================================
+
+Build a mobile-first experience for:
+
+- Employees
+- Supervisors
+- Safety Officers
+- EHS Managers
+- Contractors
+- Security Officers
+
+Mobile features:
+
+- Camera Capture
+- Photo Upload
+- Video Upload
+- Voice Recording
+- Safety Observation
+- Incident Reporting
+- Permit Request
+- QR Scanning
+- Checklist Completion
+- Inspection
+- Training Attendance
+- Notifications
+- Approval
+- Offline Drafts
+
+Provide reliable offline drafts and safe synchronization when the network returns.
+
+Do not show an offline submission as approved or successfully synchronized until confirmed by the backend.
+
+==================================================
+PART 29 – UI AND NAVIGATION
+==================================================
+
+Create a professional enterprise sidebar with expandable Parent and Child navigation.
+
+Suggested initial Parent Modules:
+
+1. Dashboard
+2. AI Safety Assistant
+3. Safety Management
+4. Incident Management
+5. Safety Observations
+6. Permit to Work
+7. Risk Assessment
+8. Safety Audits
+9. Inspection Management
+10. Equipment Management
+11. Contractor Management
+12. Training Management
+13. Emergency Management
+14. Environment Management
+15. Health Management
+16. Legal Compliance
+17. Document Management
+18. Weekly Safety Tracking
+19. PPE and Store Management
+20. Gate Management
+21. Safety Committee
+22. Analytics and Reports
+23. Administration
+24. Dynamic Module Builder
+
+These are initial suggested modules, not a fixed menu.
+
+Allow Super Admin to add, edit, remove, rename and reorder Parent and Child Modules.
+
+Do not hardcode the sidebar.
+
+Generate navigation from database configurations and permissions.
+
+==================================================
+PART 30 – SETTINGS AND CUSTOMIZATION
+==================================================
+
+Create a comprehensive Admin Settings Center.
+
+Settings:
+
+- Company Profile
+- Branding
+- Logo
+- Industry
+- Plants
+- Departments
+- Locations
+- Users
+- Roles
+- Permissions
+- Modules
+- Forms
+- Fields
+- Checklists
+- Risk Matrix
+- Workflows
+- Approval Levels
+- Reports
+- Notifications
+- Document Categories
+- Status Values
+- Language
+- Security
+- Integration Settings
+
+Allow all normal configuration changes without code modifications.
+
+==================================================
+PART 31 – INDUSTRY CONFIGURATION
+==================================================
+
+Provide industry templates for:
+
+- FMCG
+- Pharma
+- Semiconductor
+- Data Centers
+- Manufacturing
+- Construction
+- Chemical
+- Oil & Gas
+- Warehousing
+- Logistics
+- Electrical
+- IT Infrastructure
+- Corporate Offices
+- Healthcare
+
+When an Admin selects an industry, provide relevant suggested:
+
+- Parent Modules
+- Child Modules
+- Hazards
+- Risk Categories
+- Permit Types
+- Checklists
+- Inspections
+- Training
+- Equipment
+- Legal Compliance Categories
+
+Allow custom industry creation.
+
+Templates must be editable before activation.
+
+==================================================
+PART 32 – INTEGRATIONS
+==================================================
+
+Create an integration framework for:
+
+- AI APIs
+- Email Services
+- SMS Services
+- Cloud Storage
+- QR Generation
+- Camera / CCTV Systems
+- ERP Systems
+- HRMS Systems
+- Attendance Systems
+- Identity Providers
+- External Reporting Systems
+
+Use secure server-side credentials.
+
+Do not expose API keys in browser code.
+
+Show integration status:
+- Not Connected
+- Configuration Required
+- Connected
+- Error
+- Disabled
+
+Do not pretend integrations are connected without successful verification.
+
+==================================================
+PART 33 – SECURITY, PRIVACY AND DATA PROTECTION
+==================================================
+
+Implement:
+
+- Secure Authentication
+- Password Reset
+- Optional Multi-Factor Authentication
+- Role-Based Access
+- Tenant Isolation
+- Backend Permission Checks
+- Secure File Upload
+- File Type Validation
+- File Size Limits
+- Audit Logs
+- Session Management
+- Backup and Recovery
+- Data Retention
+- Secure API Endpoints
+- Rate Limiting
+- Error Handling
+
+Prevent unauthorized access to employee, contractor and company information.
+
+Protect sensitive personal information.
+
+Provide organization-level data ownership and controlled export.
+
+==================================================
+PART 34 – SYSTEM PERFORMANCE AND SCALABILITY
+==================================================
+
+Build for multiple companies and plants.
+
+Use:
+- Pagination
+- Database Indexes
+- Efficient Queries
+- Background Jobs
+- Caching Where Appropriate
+- Lazy Loading
+- Optimized Images
+- File Storage
+- Error Monitoring
+- Database Backups
+
+The number of Parent Modules, Child Modules, Forms, Checklist Items, Users and Plants must not be restricted by arbitrary application-level fixed counts.
+
+Use pagination and performance controls instead of artificial limits.
+
+==================================================
+PART 35 – SAMPLE DATA AND INITIAL SETUP
+==================================================
+
+Create a demonstration environment with:
+
+- One Sample Organization
+- Two Sample Plants
+- Multiple Departments
+- Super Admin
+- EHS Manager
+- Safety Manager
+- Safety Officer
+- Supervisor
+- Employees
+- Contractors
+
+Include realistic sample:
+
+- Incidents
+- Observations
+- Work Permits
+- Risk Assessments
+- Audits
+- Training Records
+- Equipment
+- CAPA
+
+Mark all demonstration data clearly as SAMPLE DATA.
+
+Provide a safe option to remove sample records.
+
+Do not present demo records as real incidents or real company compliance data.
+
+==================================================
+PART 36 – DEVELOPMENT AND IMPLEMENTATION RULES
+==================================================
+
+Follow these rules strictly:
+
+1. First inspect the existing project and its codebase.
+2. Preserve existing working functionality.
+3. Do not unnecessarily replace the existing architecture.
+4. Set up the database and authentication.
+5. Implement the Dynamic Module Builder.
+6. Implement the reusable form engine.
+7. Implement the workflow engine.
+8. Implement permissions.
+9. Implement the main EHS modules.
+10. Integrate AI functionality.
+11. Implement reports.
+12. Test all operations.
+13. Fix errors.
+14. Verify data persistence.
+15. Verify mobile responsiveness.
+
+Build reusable components instead of duplicating code.
+
+Use proper frontend, backend and database separation.
+
+Do not create dummy buttons.
+
+Every button must have a working action.
+
+Every form must have validation.
+
+Every record must save to the real database.
+
+Every list must retrieve actual records.
+
+Every dashboard must calculate actual data.
+
+Every approval must update the backend status.
+
+Every upload must be stored securely.
+
+Every deletion must follow dependency checks and retention rules.
+
+Do not replace existing user data during upgrades.
+
+==================================================
+PART 37 – TESTING AND ACCEPTANCE CRITERIA
+==================================================
+
+Before declaring the application complete, test the following:
+
+DYNAMIC MODULE BUILDER:
+
+- Create 10 Parent Modules.
+- Add 20 Child Modules under a Parent.
+- Create at least 10 nested hierarchy levels.
+- Rename modules.
+- Edit modules.
+- Duplicate modules.
+- Reorder modules.
+- Move modules.
+- Disable and enable modules.
+- Archive and restore modules.
+- Assign permissions.
+- Refresh the application and verify persistence.
+
+FORMS:
+
+- Create custom forms.
+- Add multiple field types.
+- Configure mandatory fields.
+- Save submissions.
+- Edit records.
+- Search records.
+- Export records.
+
+WORKFLOWS:
+
+- Configure multiple approval steps.
+- Submit a request.
+- Approve.
+- Reject.
+- Resubmit.
+- Verify history.
+- Verify authorization.
+
+DATABASE:
+
+- Verify persistent storage.
+- Verify relationships.
+- Verify tenant isolation.
+- Verify audit history.
+- Verify backup procedures.
+
+EHS MODULES:
+
+- Create a real incident.
+- Complete investigation.
+- Create RCA.
+- Create CAPA.
+- Create a permit.
+- Approve a permit.
+- Generate QR.
+- Verify permit validity.
+- Close permit.
+- Create an observation.
+- Upload evidence.
+- Complete an audit.
+- Generate reports.
+
+AI:
+
+- Test image input.
+- Test text input.
+- Test safety observation generation.
+- Test hazard suggestions.
+- Test uncertainty handling.
+- Verify human approval.
+
+MOBILE:
+
+- Test responsive screens.
+- Test camera uploads.
+- Test QR scanning.
+- Test offline drafts.
+- Test synchronization.
+
+Do not mark an item as completed unless it has actually passed testing.
+
+==================================================
+PART 38 – FINAL DELIVERY REQUIREMENTS
+==================================================
+
+Deliver the complete ARSHIEL SAFETY application with:
+
+1. Professional Login System
+2. Super Admin Dashboard
+3. Company and Plant Management
+4. Unlimited Dynamic Module Builder
+5. Database Architecture
+6. Custom Form Builder
+7. Checklist Builder
+8. Approval Workflow Builder
+9. AI Safety Observation
+10. Incident Management
+11. RCA and CAPA
+12. Digital Permit to Work
+13. LOTO
+14. HIRA / HAZOP / JSA / JHA
+15. Safety Audits
+16. Inspections
+17. Equipment Management
+18. Contractor Management
+19. Training Management
+20. Emergency Management
+21. Environmental Management
+22. Legal Compliance
+23. Document Management
+24. Weekly Safety Tracking
+25. PPE and Store Management
+26. Gate Management
+27. Safety Committee
+28. AI Safety Assistant
+29. Analytics and Reports
+30. Mobile Responsive Interface
+31. Secure Database
+32. User Permissions
+33. Notifications
+34. Audit History
+35. Administration Settings
+
+FINAL PRODUCT IDENTITY:
+
+ARSHIEL SAFETY
+
+AI-POWERED ENTERPRISE EHS MANAGEMENT PLATFORM
+
+ONE PLATFORM. ALL SAFETY OPERATIONS. AI-POWERED PREVENTION.
+
+OWNER & PLATFORM CREATOR:
+JONATHAN THADANKI
+
+FINAL INSTRUCTION:
+
+Build a complete, professional, functional and scalable EHS Management Platform.
+
+Use all 65 uploaded images as functional references.
+
+Use the supplied external reference websites for additional workflow inspiration.
+
+Make the entire application configurable through the Super Admin panel.
+
+Support unlimited dynamic Parent and Child modules.
+
+Use a real database, secure backend and working AI integrations.
+
+Do not stop after generating the dashboard or initial UI.
+
+Complete the application module by module, test all functionality, and provide a working application with no fake buttons, no disconnected forms and no static-only data.

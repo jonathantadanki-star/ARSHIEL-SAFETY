@@ -1,0 +1,2013 @@
+# ARSHIEL SAFETY – COMPLETE GLOBAL AI-POWERED EHS / HSE / SHE MANAGEMENT SOFTWARE
+## MASTER DEVELOPMENT PROMPT – ALL 10 STAGES
+
+### 1. ROLE & DEVELOPMENT OBJECTIVE
+
+Act as a world-class Enterprise Software Architect, Full-Stack Developer, Database Architect, AI Engineer, EHS Director, Global HSE Compliance Specialist and Industrial Safety Consultant.
+
+Build a complete, production-ready, AI-driven enterprise EHS software platform named:
+
+**ARSHIEL SAFETY**
+
+Tagline: Intelligent Safety. Safer Industries. Sustainable Future.
+
+The platform must cover all EHS, HSE, SHE, Occupational Health, Industrial Safety, Environmental Management, Fire Safety, Process Safety, ESG, GHG, Sustainability and Energy Management functions.
+
+This must NOT be a simple website, dashboard mockup or static document library.
+
+Build a functional enterprise software application with:
+- Real database integration.
+- Dynamic Parent–Child Module Builder.
+- Unlimited configurable document hierarchy.
+- AI-powered EHS assistance.
+- Industry-specific document management.
+- Global legal compliance.
+- ISO management systems.
+- Document generation.
+- Workflow and approvals.
+- Inspection and audits.
+- Risk assessment.
+- Permit to Work.
+- Incident investigation.
+- CAPA management.
+- ESG and sustainability.
+- Energy management.
+- Mobile application.
+- Notifications and reports.
+
+All modules must communicate with one centralized database.
+
+---
+
+# 2. INDUSTRY-WISE COMPLETE EHS COVERAGE
+
+Create an industry selection engine that supports all industries, including the following.
+
+### A. Data Center Industry
+Include:
+- Hyperscale Data Centers
+- Colocation Data Centers
+- AI Data Centers
+- Cloud Infrastructure
+- Server Rooms
+- Critical Infrastructure
+
+Required documents:
+1. Data Center EHS Management Plan
+2. Data Center HIRA
+3. Electrical Safety Management Plan
+4. UPS Safety Procedure
+5. Battery Room Safety Procedure
+6. Lithium-Ion Battery Risk Assessment
+7. Diesel Generator Safety Procedure
+8. Transformer Safety Inspection
+9. HT/LT Electrical Safety
+10. LOTO Procedure
+11. Arc Flash Risk Assessment
+12. Electrical Switching Authorization
+13. Energization Permit
+14. Fire Detection and Suppression Inspection
+15. Clean Agent Fire Suppression Procedure
+16. FM-200 / Novec system reference and approved alternatives
+17. Fire Alarm Testing Records
+18. Emergency Response Plan
+19. Business Continuity and Disaster Recovery Interface
+20. HVAC Safety Procedure
+21. Cooling Tower Inspection
+22. Refrigerant Handling Procedure
+23. Confined Space Entry
+24. Work at Height
+25. Hot Work Permit
+26. Contractor Safety Management
+27. Server Room Access Safety
+28. Cable Tray and Raised Floor Inspection
+29. Battery Waste Management
+30. Emergency Power Failure Drill
+31. Electrical Incident Investigation
+32. Fire Evacuation Drill
+33. Data Center Emergency Preparedness Audit
+34. Critical Equipment Inspection Register
+35. Daily, Weekly and Monthly EHS Checklist
+
+### B. Semiconductor Industry
+
+Include:
+- Wafer Fabrication
+- Cleanroom
+- Assembly and Testing
+- Chemical Processing
+- Semiconductor Packaging
+
+Required documents:
+1. Semiconductor EHS Management Plan
+2. Cleanroom Safety Management Plan
+3. Chemical Risk Assessment
+4. HF Chemical Handling SOP
+5. Toxic Gas Management Plan
+6. Gas Cabinet Inspection
+7. Gas Detection System Inspection
+8. Chemical Storage Compatibility Matrix
+9. Chemical Receiving Checklist
+10. Chemical Transfer SOP
+11. Chemical Spill Response Plan
+12. Emergency Shutdown Procedure
+13. Process Exhaust Monitoring
+14. Scrubber Inspection
+15. Local Exhaust Ventilation Inspection
+16. PPE Matrix
+17. Respiratory Protection Program
+18. Hazardous Waste Management
+19. Wafer Handling Safety
+20. Robot and Automation Safety
+21. Machine Guarding Inspection
+22. Electrical Safety
+23. LOTO
+24. Cleanroom Emergency Evacuation
+25. Process Safety Review
+26. Contractor Safety
+27. Exposure Monitoring
+28. Occupational Health Surveillance
+29. EHS Change Management
+30. Semiconductor Process Risk Assessment
+
+### C. Pharmaceutical and Biotech Industry
+
+Include:
+- API Manufacturing
+- Formulation
+- Biotech
+- Vaccine Manufacturing
+- Laboratories
+- R&D
+
+Required documents:
+1. Pharmaceutical EHS Policy
+2. Pharma EHS Management Plan
+3. GMP-EHS Interface Procedure
+4. Chemical Handling SOP
+5. Solvent Handling SOP
+6. Flammable Liquid Storage
+7. API Process Safety Assessment
+8. Dust Explosion Risk Assessment
+9. Hazardous Area Classification
+10. Reactor Safety Procedure
+11. Pressure Vessel Inspection
+12. Boiler Safety
+13. Autoclave Safety
+14. Laboratory Safety Manual
+15. Biosafety Management Plan
+16. Biological Risk Assessment
+17. Biohazard Waste Management
+18. Cytotoxic Waste Management
+19. Pharmaceutical Waste Management
+20. Effluent Treatment Plant SOP
+21. Scrubber Monitoring
+22. Occupational Exposure Monitoring
+23. Respiratory Protection
+24. Emergency Response Plan
+25. Fire Safety Plan
+26. Medical Surveillance
+27. Chemical Spill Procedure
+28. Confined Space Entry
+29. Hot Work Permit
+30. Change Management
+
+### D. Manufacturing and FMCG Industry
+
+Required documents:
+1. Plant EHS Management Plan
+2. Factory Safety Manual
+3. Machine Safety SOP
+4. Machine Guarding Checklist
+5. HIRA
+6. JSA/JHA
+7. LOTO
+8. Electrical Safety
+9. Welding and Cutting Safety
+10. Material Handling Safety
+11. Forklift Safety
+12. Crane and Hoist Inspection
+13. Conveyor Safety
+14. Pressure Vessel Inspection
+15. Boiler Inspection
+16. Compressor Inspection
+17. Chemical Handling
+18. Noise Monitoring
+19. Ergonomic Risk Assessment
+20. Occupational Health Surveillance
+21. Fire Safety
+22. Emergency Evacuation
+23. Waste Management
+24. Wastewater Management
+25. Air Emission Monitoring
+26. Contractor Safety
+27. Production Line Safety Audit
+28. Near Miss Reporting
+29. Incident Investigation
+30. Monthly EHS Performance Report
+
+### E. Construction and Infrastructure
+
+Required documents:
+1. Construction EHS Management Plan
+2. Project HSE Plan
+3. Construction HIRA
+4. Job Safety Analysis
+5. Method Statement
+6. Site Safety Induction
+7. Work at Height Permit
+8. Excavation Permit
+9. Confined Space Permit
+10. Hot Work Permit
+11. Lifting Plan
+12. Crane Inspection
+13. Scaffolding Inspection
+14. Formwork Safety
+15. Electrical Temporary Installation Inspection
+16. Excavation Safety Checklist
+17. Demolition Safety Plan
+18. Road Safety Management Plan
+19. Traffic Management Plan
+20. Heavy Equipment Inspection
+21. PPE Compliance
+22. Contractor Safety Evaluation
+23. Daily Toolbox Talk
+24. Daily Site Safety Inspection
+25. Emergency Response Plan
+26. Fire Prevention Plan
+27. Work at Height Rescue Plan
+28. Incident Investigation
+29. Environmental Management Plan
+30. Project Monthly HSE Report
+
+### F. Corporate, IT, MNC and Head Office
+
+Required documents:
+1. Corporate EHS Policy
+2. Corporate EHS Management System
+3. Office HSE Risk Assessment
+4. Ergonomic Assessment
+5. DSE / Computer Workstation Assessment
+6. Office Electrical Safety
+7. Fire Safety Plan
+8. Evacuation Plan
+9. Business Continuity Plan
+10. Emergency Response Plan
+11. First Aid Management
+12. Workplace Health and Wellbeing Policy
+13. Indoor Air Quality Assessment
+14. Contractor Management
+15. Housekeeping Inspection
+16. Office Safety Inspection
+17. Travel Safety Policy
+18. Security and Emergency Interface
+19. Sustainability Policy
+20. Corporate ESG Report
+21. Carbon Footprint Assessment
+22. Energy Conservation Plan
+23. Waste Management
+24. Water Conservation
+25. Corporate EHS Audit
+26. MNC Global EHS Reporting
+
+### G. Healthcare and Hospitals
+
+Required documents:
+1. Hospital EHS Management Plan
+2. Hospital Safety Manual
+3. Patient and Staff Safety Interface
+4. Biomedical Waste Management Plan
+5. Infection Prevention and Control Interface
+6. Sharps Injury Prevention
+7. Radiation Safety Program
+8. MRI Safety Procedure
+9. Laboratory Safety
+10. Chemical Hygiene Plan
+11. Medical Gas Safety
+12. Oxygen Cylinder Handling
+13. Fire Safety and Evacuation
+14. Emergency Preparedness
+15. Hazardous Drug Handling
+16. Occupational Health Surveillance
+17. Needle Stick Injury Report
+18. Biological Exposure Incident Report
+19. Waste Segregation Checklist
+20. Hospital Safety Audit
+21. Emergency Power Inspection
+22. Medical Equipment Safety Inspection
+
+### H. Additional Industry Coverage
+
+Also create dedicated document inventories for:
+- Oil and Gas
+- Petrochemical
+- Chemical Manufacturing
+- Power Plants
+- Renewable Energy
+- Mining
+- Automotive
+- Warehousing
+- Logistics
+- Food Processing
+- Agriculture
+- Hospitality
+- Educational Institutions
+- Research Laboratories
+- Telecom
+- Aviation
+- Railways
+- Marine
+- Retail
+- Public Infrastructure
+
+Include an option called **Other Industries – Custom Industry Builder**.
+
+Do not limit the application to these industries. Administrators must be able to add new industries and configure their document libraries.
+
+---
+
+# 3. COMPLETE EHS DOCUMENT MASTER LIBRARY
+
+Create a centralized library with the following parent categories and child documents.
+
+### 3.1 EHS Governance and Management System
+- EHS Policy
+- EHS Manual
+- EHS Objectives and Targets
+- Annual EHS Plan
+- EHS Organization Chart
+- Roles and Responsibilities
+- EHS Committee Constitution
+- Management Review
+- EHS Communication Plan
+- EHS Competency Matrix
+- EHS KPI Register
+- EHS Budget Register
+- Management of Change
+- EHS Document Control Procedure
+- EHS Records Retention Procedure
+
+### 3.2 Risk Management
+- HIRA
+- HAZID
+- HAZOP
+- JSA
+- JHA
+- Task Risk Assessment
+- Activity Risk Assessment
+- Project Risk Assessment
+- Environmental Aspect and Impact Assessment
+- Occupational Health Risk Assessment
+- Ergonomic Risk Assessment
+- Fire Risk Assessment
+- Electrical Risk Assessment
+- Chemical Risk Assessment
+- Biological Risk Assessment
+- Process Risk Assessment
+- Dynamic Risk Assessment
+- Residual Risk Register
+- Risk Control Verification
+
+Include configurable risk matrices such as 3x3, 4x4 and 5x5.
+
+### 3.3 SOP, SWP and Method Statements
+- Standard Operating Procedure
+- Safe Work Procedure
+- Method Statement
+- Work Instructions
+- Equipment Operating Procedure
+- Maintenance Procedure
+- Shutdown Procedure
+- Startup Procedure
+- Emergency Operating Procedure
+- Contractor Work Method Statement
+
+### 3.4 Permit to Work
+- General Work Permit
+- Hot Work Permit
+- Cold Work Permit
+- Electrical Work Permit
+- Electrical Isolation Certificate
+- LOTO Certificate
+- Work at Height Permit
+- Confined Space Entry Permit
+- Excavation Permit
+- Lifting Permit
+- Line Breaking Permit
+- Radiography Permit
+- Pressure Testing Permit
+- Energization Permit
+- Roof Work Permit
+- Chemical Handling Permit
+- Work Authorization Certificate
+- Gas Testing Certificate
+- Permit Extension
+- Permit Closure Certificate
+
+### 3.5 Fire and Emergency Management
+- Fire Prevention Plan
+- Fire Risk Assessment
+- Fire Load Assessment
+- Fire Extinguisher Register
+- Fire Alarm Inspection
+- Fire Hydrant Inspection
+- Sprinkler Inspection
+- Fire Pump Inspection
+- Fire Door Inspection
+- Emergency Response Plan
+- Emergency Contact List
+- Emergency Evacuation Plan
+- Emergency Drill Report
+- Fire Drill Report
+- First Aid Procedure
+- Rescue Plan
+- Crisis Management Plan
+- Disaster Recovery Plan
+
+### 3.6 Electrical and Mechanical Safety
+- Electrical Safety Policy
+- Arc Flash Risk Assessment
+- Electrical Inspection
+- HT/LT Inspection
+- Earthing Inspection
+- Electrical Panel Inspection
+- Transformer Inspection
+- DG Set Inspection
+- UPS Inspection
+- Battery Inspection
+- Motor Inspection
+- Machine Guarding Inspection
+- Boiler Inspection
+- Pressure Vessel Inspection
+- Compressor Inspection
+- Lifting Equipment Inspection
+- Crane Inspection
+- Hoist Inspection
+- Forklift Inspection
+- Conveyor Inspection
+
+### 3.7 Occupational Health and Industrial Hygiene
+- Occupational Health Policy
+- Medical Examination Register
+- Fitness Certificate
+- Medical Surveillance Plan
+- Noise Survey
+- Air Monitoring
+- Chemical Exposure Assessment
+- Heat Stress Assessment
+- Ventilation Assessment
+- Ergonomic Assessment
+- Respiratory Protection
+- Hearing Conservation
+- PPE Assessment
+- Workplace Hygiene Inspection
+- Occupational Disease Reporting
+- First Aid Register
+
+Restrict medical and personal records to authorized personnel.
+
+### 3.8 Environment Management
+- Environmental Policy
+- Environmental Management Plan
+- Aspect and Impact Register
+- Environmental Legal Register
+- Air Emission Register
+- Water Consumption Register
+- Wastewater Monitoring
+- ETP Inspection
+- STP Inspection
+- Hazardous Waste Register
+- Non-Hazardous Waste Register
+- E-Waste Register
+- Battery Waste Register
+- Plastic Waste Register
+- Biomedical Waste Register
+- Chemical Spill Report
+- Environmental Incident Report
+- Water Conservation Plan
+- Biodiversity Assessment
+- Environmental Audit
+- Environmental Monitoring Report
+
+### 3.9 Contractor and Visitor Safety
+- Contractor EHS Prequalification
+- Contractor Risk Assessment
+- Contractor Induction
+- Contractor Evaluation
+- Contractor Audit
+- Contractor Permit Register
+- Visitor Safety Induction
+- Visitor PPE Register
+- Contractor Incident Report
+- Subcontractor Monitoring
+
+### 3.10 Training and Competency
+- Annual Training Calendar
+- Training Needs Analysis
+- Safety Induction
+- Toolbox Talk
+- Training Attendance
+- Competency Assessment
+- Training Effectiveness Evaluation
+- Emergency Response Training
+- Fire Warden Training
+- First Aid Training
+- Electrical Safety Training
+- LOTO Training
+- Work at Height Training
+- Confined Space Training
+- Forklift Operator Training
+- Authorized Person Register
+- Certification Expiry Register
+
+### 3.11 Incident Investigation and CAPA
+- Incident Report
+- Near Miss Report
+- First Aid Case Report
+- Medical Treatment Case Report
+- Lost Time Injury Report
+- Property Damage Report
+- Environmental Incident Report
+- Fire Incident Report
+- Dangerous Occurrence Report
+- Root Cause Analysis
+- 5 Why Analysis
+- Fishbone Analysis
+- ICAM / TapRooT methodology reference
+- Corrective Action Register
+- Preventive Action Register
+- CAPA Verification
+- Lessons Learned Report
+- Incident Statistics
+
+### 3.12 Inspections and Audits
+- Daily Safety Inspection
+- Weekly Safety Inspection
+- Monthly Safety Inspection
+- Workplace Inspection
+- Fire Inspection
+- Electrical Inspection
+- Mechanical Inspection
+- PPE Inspection
+- Housekeeping Inspection
+- Chemical Storage Inspection
+- Warehouse Inspection
+- Construction Site Inspection
+- Environmental Inspection
+- Legal Compliance Audit
+- ISO Internal Audit
+- Contractor Audit
+- Corporate EHS Audit
+- Management System Audit
+- Audit Nonconformity Register
+
+### 3.13 ESG, GHG and Sustainability
+- ESG Policy
+- ESG Strategy
+- ESG Materiality Assessment
+- ESG Risk Register
+- ESG Performance Dashboard
+- Sustainability Report
+- GHG Inventory
+- Scope 1 Emissions Register
+- Scope 2 Emissions Register
+- Scope 3 Emissions Register
+- Carbon Footprint Assessment
+- GHG Calculation Workbook
+- Emission Factor Register
+- Energy Consumption Register
+- Renewable Energy Register
+- Water Footprint
+- Waste Footprint
+- Sustainability KPI Register
+- Climate Risk Assessment
+- Decarbonization Roadmap
+- BRSR Reporting
+- GRI Reporting
+- CSRD / ESRS Reporting Applicability
+- Sustainable Procurement
+- Social Responsibility Metrics
+- Governance Metrics
+
+### 3.14 Energy Management
+- Energy Policy
+- Energy Management Manual
+- Energy Review
+- Energy Baseline
+- Energy Performance Indicators
+- Significant Energy Uses Register
+- Energy Audit
+- Energy Conservation Plan
+- Energy Action Plan
+- Energy Monitoring Register
+- Electricity Consumption Register
+- Fuel Consumption Register
+- Compressed Air Energy Assessment
+- HVAC Energy Assessment
+- Boiler Energy Assessment
+- Renewable Energy Assessment
+- Energy Performance Improvement Report
+- ISO 50001 Management Review
+
+### 3.15 Additional Management Systems
+- Business Continuity
+- Quality Management
+- Asset Management
+- Supply Chain Management
+- Product Stewardship
+- Security Management
+- Operational Resilience
+- Emergency Preparedness
+- Sustainability Governance
+
+---
+
+# 4. GLOBAL LEGAL, STATUTORY AND TECHNICAL REFERENCE ENGINE
+
+Create a global reference database with country, jurisdiction, authority, applicable industry, document mappings and verification status.
+
+### 4.1 India – Statutory and Regulatory References
+
+Include and map applicable requirements from:
+
+1. Factories Act, 1948 – legacy and transition reference.
+2. Occupational Safety, Health and Working Conditions Code, 2020.
+3. Applicable OSHWC Central and State Rules and notifications.
+4. Environment Protection Act, 1986.
+5. Air (Prevention and Control of Pollution) Act, 1981.
+6. Water (Prevention and Control of Pollution) Act, 1974.
+7. Electricity Act, 2003.
+8. Applicable CEA safety regulations.
+9. Public Liability Insurance Act, 1991.
+10. Applicable hazardous chemical and waste management rules.
+11. Hazardous and Other Wastes Rules.
+12. Solid Waste Management Rules.
+13. Plastic Waste Management Rules.
+14. E-Waste Management Rules.
+15. Battery Waste Management Rules.
+16. Biomedical Waste Management Rules.
+17. Construction and Demolition Waste Rules.
+18. MSIHC Rules, 1989.
+19. Chemical Accidents Rules, 1996.
+20. Gas Cylinders Rules.
+21. Static and Mobile Pressure Vessels Rules.
+22. Petroleum Rules.
+23. Explosives Act and applicable rules.
+24. Building and Other Construction Workers legislation and applicable transition requirements.
+25. Applicable State Fire Service Acts and Rules.
+26. National Building Code of India.
+27. State Factory Rules and relevant notifications.
+28. Applicable labour, welfare and occupational health requirements.
+
+For every law, capture:
+- Official title.
+- Country.
+- State.
+- Enforcing authority.
+- Applicable industry.
+- Applicability threshold.
+- Required approvals.
+- Mandatory records.
+- Inspection frequency, where prescribed.
+- Reporting deadlines.
+- Legal source.
+- Effective date.
+- Amendment history.
+- Verification date.
+- Responsible compliance owner.
+
+Do not assume that every listed law remains independently applicable in every location. Maintain commencement, repeal, savings, transition and state-specific applicability information.
+
+### 4.2 International References
+
+Create a configurable international legal library covering:
+- United States OSHA 29 CFR 1910.
+- OSHA 29 CFR 1926.
+- EPA requirements.
+- NFPA codes and standards.
+- European Union occupational safety directives.
+- UK Health and Safety at Work legislation.
+- UK HSE regulations and guidance.
+- Environmental and workplace safety regulations from other jurisdictions.
+- Applicable local fire, building and electrical codes.
+
+### 4.3 Professional and Industry Organizations
+
+Include:
+- IOSH guidance and professional competency resources.
+- NEBOSH qualification reference information.
+- NSC resources.
+- ASSP guidance.
+- AIHA guidance.
+- ILO conventions and guidance.
+- NIOSH publications.
+- SEMI industry standards.
+- NFPA technical references.
+- Relevant industry codes.
+
+Clearly distinguish:
+- Legislation.
+- Regulations.
+- Codes.
+- Voluntary standards.
+- Professional guidance.
+- Training and certification frameworks.
+
+IOSH is a professional institution, not a government legislation or standalone ISO standard.
+
+### 4.4 ISO Standards Library
+
+Create a searchable ISO standards catalogue with current editions and revision history.
+
+Include at minimum:
+
+**Occupational Health and Safety**
+- ISO 45001
+- ISO 45003
+- ISO 45002
+
+**Environmental Management**
+- ISO 14001
+- ISO 14004
+- ISO 14031
+- ISO 14064 series
+- ISO 14067
+
+**Energy Management**
+- ISO 50001:2018
+- ISO 50002 series
+- ISO 50006
+- ISO 50015
+
+**Quality and Business Management**
+- ISO 9001
+- ISO 19011
+- ISO 31000
+- ISO 22301
+- ISO 27001
+- ISO 55001
+
+**Sustainability and Carbon**
+- ISO 14068-1
+- ISO 14046
+- ISO 26000
+- Applicable ISO GHG quantification and verification standards.
+
+Create a dynamic standards catalogue so administrators can add all other relevant standards and editions.
+
+Do not assume that all standards apply to every industry. Map standards to activities, management systems and jurisdictions.
+
+### 4.5 NFPA and NBC
+
+Include applicable references for:
+- Fire prevention.
+- Fire protection.
+- Fire alarms.
+- Sprinkler systems.
+- Fire pumps.
+- Emergency exits.
+- Electrical safety.
+- Hazardous materials.
+- Industrial fire protection.
+- Life safety.
+- Building fire protection.
+
+Include relevant National Building Code of India sections.
+
+Use the correct NFPA designation and edition. Verify local adoption and applicable authority requirements.
+
+Do not reproduce copyrighted standard content without a valid licence.
+
+
+### 4.6 MANDATORY CORE CAPABILITY A – UNLIMITED DYNAMIC MODULE BUILDER
+
+This is a foundational platform capability, not an optional feature. Build a fully database-driven module builder that allows authorized administrators to create, configure, publish, revise, archive and reuse an unlimited number of industries, modules and document categories without changing application source code.
+
+Required hierarchy:
+- Global EHS Library
+- Industry
+- Industry segment / sub-industry
+- Parent module
+- Child module
+- Sub-child module
+- Further nested levels without a fixed depth limit
+- Document category
+- Document / template / checklist / record
+
+Functional requirements:
+1. Create unlimited custom industries, including an “Other / Custom Industry” option.
+2. Create unlimited parent, child, sub-child and deeper nested modules.
+3. Add, edit, rename, duplicate, move, reorder, archive, restore and deactivate nodes.
+4. Support drag-and-drop hierarchy management and bulk import/export.
+5. Link each node to one or more industries, countries, states, sites, departments, activities, hazards, legal requirements, ISO standards, templates and workflows.
+6. Allow a document or template to be linked to multiple modules without duplicating the underlying record.
+7. Support reusable global templates and organization-specific/site-specific overrides.
+8. Provide configurable fields, forms, metadata, tags, owners, access rules, review cycles and approval routes at each level.
+9. Maintain immutable audit history for hierarchy changes, including who changed what and when.
+10. Prevent accidental deletion of referenced records; use archive/deactivate and dependency checks.
+11. Support versioning, draft/published states, effective dates and rollback.
+12. Provide search, filters, favorites, recently used modules and module-level analytics.
+13. Enforce tenant isolation and role-based create/edit/publish permissions.
+14. Never hardcode a maximum hierarchy depth or fixed industry list in the application.
+
+Suggested data model:
+- modules: id, tenant_id, name, code, description, module_type, parent_id, hierarchy_path, depth, sort_order, status, version, created_by, updated_by, timestamps.
+- industries and industry_modules: industry definitions and many-to-many module mapping.
+- module_links: polymorphic links to activities, sites, departments, documents, templates, legal requirements, standards and workflows.
+- module_custom_fields and module_form_schemas: configurable metadata and forms.
+- module_permissions: role/user-level permissions.
+- module_versions and module_audit_logs: history, approvals and rollback metadata.
+
+Use a relational adjacency-list model with parent_id and recursive queries, optionally supplemented by a materialized path or closure table for efficient hierarchy traversal. The chosen design must support arbitrary depth and preserve referential integrity.
+
+Acceptance tests:
+- Create a new industry without code changes.
+- Create at least 8 nested module levels and confirm there is no application-imposed depth limit.
+- Move a child module and confirm all linked documents and permissions remain valid.
+- Reuse one approved template in multiple industry modules.
+- Confirm tenant A cannot view or modify tenant B modules.
+- Confirm every structural change appears in the audit history.
+
+### 4.7 MANDATORY CORE CAPABILITY B – AI EHS DOCUMENT GENERATOR
+
+Build a dedicated AI EHS Document Generator connected to the Dynamic Module Builder, Industry Library, activity master, hazard library, legal register, ISO catalogue, approved company templates and workflow engine.
+
+The user journey must be:
+Select Country → State / Jurisdiction → Organization → Site → Industry → Department → Activity / Task → Equipment / Process / Chemicals → Working Conditions → Select Document Type → Review Inputs → Generate Draft → Validate References → Competent EHS Review → Approval → Controlled Publication.
+
+The activity selector must support search, hierarchical browsing, custom activities and multiple activities per job. If a user selects an activity, suggest relevant document types and known hazards, but do not assume missing site-specific facts.
+
+Supported generated outputs must include at minimum:
+- HIRA / HIRAC
+- JSA / JHA
+- Task Risk Assessment
+- Activity Risk Assessment
+- SOP
+- Safe Work Procedure (SWP)
+- Method Statement
+- Job Method Statement
+- Work Instructions
+- Inspection Checklist
+- Audit Checklist
+- Permit-to-Work supporting documents
+- Toolbox Talk
+- Emergency Response Procedure
+- Rescue Plan
+- Chemical Risk Assessment
+- Environmental Aspect and Impact Assessment
+- Occupational Health Risk Assessment
+- Fire Risk Assessment
+- Electrical Risk Assessment
+- Process Risk Assessment
+- Training Material and Competency Checklist
+- Incident Investigation Draft
+- Root Cause Analysis worksheet
+- Corrective / Preventive Action plan
+- Legal Compliance Checklist
+- ISO Management System Procedure / Form
+- Energy and Environmental assessment templates
+
+Generation inputs, where relevant:
+- Country, state, local jurisdiction and applicable legal regime
+- Industry, sub-industry, site and department
+- Activity, task steps and work sequence
+- Equipment, tools, plant and machinery
+- Materials, chemicals and safety data sheet information
+- Number and categories of people exposed
+- Contractor involvement and competency
+- Work environment, simultaneous operations and weather conditions
+- Energy sources and isolation points
+- Existing controls, PPE and emergency arrangements
+- Applicable legislation, standards, company procedures and approved templates
+- Document owner, reviewer, approver, revision and effective date
+
+AI generation rules:
+1. Ask concise follow-up questions when essential information is missing. Clearly label assumptions and never invent site conditions, equipment specifications, chemical properties, statutory limits or control measures.
+2. Retrieve legal and standards references only from the version-controlled reference library and verified source records.
+3. Display each reference with jurisdiction, exact title/designation, edition or amendment, clause/section where verified, source link, verification date and verification status.
+4. If an edition, clause or applicability cannot be verified, label it “Verification Required”; never fabricate a citation.
+5. Use the organization’s approved templates and document-control format.
+6. Include document ID, revision, date, prepared/reviewed/approved fields, owner, scope, responsibilities, required resources, hazards, controls, emergency actions and records as applicable.
+7. For risk assessments, apply the configured risk matrix and hierarchy of controls; show initial and residual risk with transparent scoring logic.
+8. Allow users to edit generated content, compare revisions, add evidence and export to DOCX/PDF/XLSX where appropriate.
+9. Store prompts, source references, model/version metadata, generated output, edits, reviewer comments and approval history in AI generation history.
+10. Clearly watermark or label unapproved output “AI-GENERATED DRAFT – NOT APPROVED FOR OPERATIONAL USE”.
+11. AI must never approve, sign, issue or operationally release a document by itself.
+12. Only an authorized competent person may review and approve documents according to the organization’s defined competence and authorization matrix.
+13. High-risk activities must require mandatory review and any required specialist/engineering/legal approval before release.
+14. Published documents must enter controlled document management with version control, effective date, distribution and obsolete-copy controls.
+
+Required workflow:
+AI Draft → Technical Validation → EHS Review → Department / Engineering Review where required → Legal / Specialist Review where required → Authorized Approval → Controlled Release → Periodic Review → Revision / Withdrawal.
+
+### 4.8 MANDATORY CORE CAPABILITY C – GLOBAL LEGAL & ISO COMPLIANCE ENGINE
+
+Build a global, version-controlled applicability and reference-mapping engine. Its purpose is to identify potentially applicable legal and technical requirements using this context:
+
+Country + State / Province + Local Jurisdiction + Industry + Sub-industry + Organization Type + Site + Activity / Process + Equipment / Hazard + Workforce / Threshold Data + Effective Date.
+
+The engine must:
+1. Maintain country, state, province and local jurisdiction masters.
+2. Map legislation and regulations to industries, activities, sites, equipment, hazards, permits, records and responsible roles.
+3. Distinguish binding legislation, regulations, licence conditions, adopted codes, voluntary standards, guidance and professional frameworks.
+4. Record applicability rationale, thresholds, exclusions, exemptions, commencement dates, repeal dates, savings provisions and transition rules.
+5. Maintain source URLs, issuing authority, publication date, effective date, amendment history, last checked date, next review date and verification owner.
+6. Maintain edition-wise ISO, OSHA, NFPA, NBC and other technical reference records.
+7. Map references to document templates, checklists, inspection plans, training requirements, permits and audit questions.
+8. Flag conflicting, superseded, withdrawn, draft or unverified references.
+9. Provide a legal change-impact assessment showing affected sites, activities, documents, permits, controls and compliance owners.
+10. Never mark a legal requirement applicable or not applicable solely from an AI guess. Show the rule, facts used, confidence and items requiring confirmation.
+11. Never declare legal compliance solely from an AI-generated checklist. Require evidence assessment and authorized competent-person sign-off.
+12. Provide a configurable review cycle and alerts when official sources or editions change.
+
+#### India – Factories Act / OSHWC transition and applicability control
+
+Treat the Factories Act, 1948 as a legacy and transition reference. Do not automatically assume it is the sole current governing law, nor automatically mark it repealed or inapplicable for every site.
+
+For every Indian state/site, the engine must verify and record:
+- Relevant commencement notifications for the OSHWC Code, 2020 and applicable provisions.
+- Applicable Central Rules, State Rules, draft/final rules, notifications, orders and amendments.
+- State-specific implementation status and effective dates.
+- Repeal, savings, transition and continuing-effect provisions affecting the Factories Act, 1948 and State Factories Rules.
+- Whether legacy licences, registrations, approvals, notices, forms, registers and pending proceedings continue, require migration or need fresh action.
+- Relevant establishment/factory definitions, worker thresholds, hazardous-process provisions and other applicability criteria, as legally verified.
+- Corresponding legacy Factories Act / State Factories Rules provisions and their successor or mapped OSHWC provisions, where an authoritative mapping exists.
+- Competent authority, filing/renewal requirements, statutory records, inspection requirements and deadlines, only where supported by an official source.
+
+Create a provision-level transition matrix with fields:
+Legacy Act / Rule / Section | New Code / Rule / Section | State / Jurisdiction | Transition Type (continued / replaced / modified / repealed / savings / pending verification) | Commencement Date | Operational Impact | Required Action | Official Source | Verification Status | Reviewer.
+
+If official commencement, final State Rules or a provision-level successor cannot be confirmed, mark it “Pending Official Verification” and do not infer legal effect. Allow legal experts and authorized administrators to update and approve the mapping.
+
+#### Edition-wise standards and codes control
+
+For ISO, OSHA, NFPA, NBC, CEA, SEMI and other technical references, store:
+- Standard / regulation identifier and exact title
+- Issuing body / authority
+- Edition, publication year and amendment/corrigendum
+- Publication, effective, withdrawal and supersession dates
+- Jurisdiction and adoption status
+- Applicable industry, activity and equipment
+- Clause / section mapping only when verified and lawfully available
+- Official source / licensed catalogue reference
+- Copyright/licensing status
+- Verification date, verifier and status
+
+Do not assume the latest published edition is automatically the legally adopted edition in a jurisdiction. Do not reproduce copyrighted ISO/NFPA/SEMI text without appropriate licence. Store metadata and authorized references, and link to licensed copies where available.
+
+#### Compliance engine output
+
+For each site/activity, generate:
+- Potentially applicable legal register
+- Applicability rationale and evidence gaps
+- Legal obligations and responsible owners
+- Mandatory licence / consent / approval register
+- Required documents and records
+- Statutory inspection / testing / reporting calendar where verified
+- Mapped ISO / OSHA / NFPA / NBC references with edition status
+- Gap assessment and corrective-action plan
+- Change-impact report when a law or standard is revised
+
+Use statuses such as Confirmed Applicable, Potentially Applicable, Not Applicable (with rationale), Pending Official Verification, Superseded, and Under Legal Review. Keep legal applicability status separate from site compliance status.
+
+
+---
+
+# 5. STAGE 1 – GLOBAL EHS MASTER DATABASE
+
+Import the supplied ARSHIEL Excel master database and editable Word template library.
+
+Build a centralized database with:
+- Industry Master.
+- Country Master.
+- State Master.
+- Organization Master.
+- Site Master.
+- Department Master.
+- EHS Module Master.
+- Document Master.
+- Template Master.
+- Legislation Master.
+- Standards Master.
+- Reference Mapping.
+- Training Master.
+- Inspection Master.
+- Risk Assessment Master.
+- Permit Master.
+- Incident Master.
+- ESG Master.
+- Energy Master.
+
+Every record must have a unique ID.
+
+Document ID format:
+
+AR-[COUNTRY]-[SITE]-[MODULE]-[TYPE]-[SEQUENCE]
+
+Example:
+
+AR-IN-HYD01-SAF-HIRA-0001
+
+Support multiple companies, multiple countries, multiple industries and multiple sites.
+
+---
+
+# 6. STAGE 2 – DYNAMIC DOCUMENT BUILDER
+
+This stage must implement all requirements in Section 4.6 (Mandatory Core Capability A). Unlimited hierarchy means no fixed industry list, parent-child depth or hardcoded module count.
+
+Create unlimited dynamic Parent–Child module functionality.
+
+Example:
+
+ARSHIEL SAFETY
+  ├── EHS Management
+  │   ├── Safety Management
+  │   │   ├── HIRA
+  │   │   ├── JSA
+  │   │   ├── SOP
+  │   │   └── Safety Inspection
+  │   ├── Fire Safety
+  │   ├── Occupational Health
+  │   ├── Environment
+  │   ├── Legal Compliance
+  │   ├── ISO Management
+  │   ├── ESG
+  │   └── Energy Management
+  ├── Industry Modules
+  │   ├── Data Center
+  │   ├── Semiconductor
+  │   ├── Pharma
+  │   ├── Manufacturing
+  │   ├── Construction
+  │   ├── Healthcare
+  │   └── Corporate / IT
+
+Admin features:
+- Create unlimited parent modules.
+- Create unlimited child modules.
+- Add multiple nesting levels.
+- Edit and delete.
+- Drag and drop.
+- Duplicate module.
+- Assign industry.
+- Assign site.
+- Assign department.
+- Add document categories.
+- Assign user permissions.
+- Import and export.
+- Activate and deactivate.
+- Maintain module history.
+
+Never hardcode the hierarchy.
+
+---
+
+# 7. STAGE 3 – AI HIRA / JSA / RISK ASSESSMENT ENGINE
+
+This stage is part of the broader AI EHS Document Generator in Section 4.7. The same generation, source-verification, draft-labeling and competent-person approval controls apply to every generated document type, not only HIRA/JSA.
+
+Build a powerful AI-driven risk assessment module.
+
+Document types:
+- HIRA.
+- JSA.
+- JHA.
+- Task Risk Assessment.
+- Activity Risk Assessment.
+- Project Risk Assessment.
+- Process Risk Assessment.
+- Environmental Risk Assessment.
+- Occupational Health Risk Assessment.
+- Fire Risk Assessment.
+- Electrical Risk Assessment.
+- Chemical Risk Assessment.
+- Ergonomic Risk Assessment.
+- Construction Risk Assessment.
+- Machine Risk Assessment.
+- Biological Risk Assessment.
+
+### AI generation inputs
+
+- Industry.
+- Country.
+- State.
+- Site.
+- Department.
+- Activity.
+- Equipment.
+- Materials.
+- Chemicals.
+- Work location.
+- Workforce exposure.
+- Environmental conditions.
+- Existing controls.
+- Applicable legal requirements.
+
+### Risk assessment output
+
+Create editable tables containing:
+
+1. Activity.
+2. Hazard.
+3. Hazard Category.
+4. Potential Consequence.
+5. Persons Exposed.
+6. Existing Controls.
+7. Initial Severity.
+8. Initial Likelihood.
+9. Initial Risk Rating.
+10. Additional Control Measures.
+11. Hierarchy of Controls.
+12. Responsible Person.
+13. Target Date.
+14. Residual Severity.
+15. Residual Likelihood.
+16. Residual Risk Rating.
+17. Verification Status.
+
+Include configurable 3x3, 4x4 and 5x5 risk matrices.
+
+Apply:
+- Elimination.
+- Substitution.
+- Engineering Controls.
+- Administrative Controls.
+- PPE.
+
+AI must identify missing information and ask for clarification when necessary.
+
+Provide:
+- Generate Risk Assessment.
+- Generate JSA.
+- Generate Control Measures.
+- Generate Toolbox Talk.
+- Generate Safe Work Procedure.
+- Generate PDF.
+- Generate Word.
+- Submit for Approval.
+
+All AI-generated risk assessments must be drafts requiring competent human review and approval.
+
+---
+
+# 8. STAGE 4 – PERMIT TO WORK MANAGEMENT
+
+Develop a complete electronic Permit to Work system.
+
+Permit categories:
+- Hot Work.
+- Cold Work.
+- Work at Height.
+- Confined Space.
+- Excavation.
+- Electrical Work.
+- LOTO.
+- Lifting.
+- Line Breaking.
+- Radiography.
+- Energization.
+- Pressure Testing.
+- Roof Work.
+- Chemical Work.
+- General Work.
+
+Features:
+- Digital permit creation.
+- Work description.
+- Job location.
+- Risk assessment linkage.
+- JSA linkage.
+- Isolation details.
+- Gas test details.
+- PPE requirements.
+- Authorized personnel.
+- Issuer and receiver.
+- Safety officer approval.
+- Department approval.
+- Validity period.
+- Permit extension.
+- Suspension.
+- Closure.
+- Revalidation.
+- Attachments.
+- Digital signatures.
+- QR code verification.
+
+Create dashboards showing:
+- Open permits.
+- Active permits.
+- Expiring permits.
+- Suspended permits.
+- Closed permits.
+- Overdue permits.
+
+Never permit authorization solely through AI. Required competent-person checks and approvals must be enforced.
+
+---
+
+# 9. STAGE 5 – INSPECTION AND AUDIT MANAGEMENT
+
+Create a complete EHS inspection and audit platform.
+
+Inspection types:
+- Daily.
+- Weekly.
+- Monthly.
+- Quarterly.
+- Annual.
+- Statutory.
+- Internal.
+- External.
+- Corporate.
+- Contractor.
+- Equipment.
+- Workplace.
+- Environmental.
+- Fire.
+- Electrical.
+- Mechanical.
+- PPE.
+- Housekeeping.
+
+Features:
+- Dynamic checklist builder.
+- Custom questions.
+- Yes / No / NA.
+- Compliant / Non-Compliant.
+- Risk classification.
+- Photo evidence.
+- Video evidence.
+- Location tagging.
+- Responsible person.
+- Corrective action.
+- Due date.
+- Verification.
+- Digital signature.
+- PDF report.
+
+Create inspection schedules and automatic reminders.
+
+Include:
+- Audit plans.
+- Audit checklists.
+- Audit observations.
+- Nonconformity reports.
+- Corrective actions.
+- Audit closure.
+- Audit effectiveness verification.
+
+---
+
+# 10. STAGE 6 – INCIDENT INVESTIGATION AND CAPA
+
+Develop an end-to-end incident management system.
+
+Incident types:
+- Fatality.
+- Lost Time Injury.
+- Medical Treatment.
+- First Aid.
+- Near Miss.
+- Unsafe Act.
+- Unsafe Condition.
+- Property Damage.
+- Fire.
+- Environmental Incident.
+- Chemical Spill.
+- Electrical Incident.
+- Process Safety Event.
+- Occupational Illness.
+- Dangerous Occurrence.
+
+Incident workflow:
+
+Report → Initial Notification → Investigation → Root Cause Analysis → Corrective Action → Verification → Closure → Lessons Learned.
+
+Features:
+- Incident reporting form.
+- Anonymous reporting option.
+- Incident severity classification.
+- Injury classification.
+- Immediate action.
+- Witness statement.
+- Photograph attachment.
+- Investigation team.
+- 5 Why.
+- Fishbone.
+- RCA.
+- CAPA.
+- Action owner.
+- Target date.
+- Effectiveness verification.
+- Management review.
+- Incident analytics.
+
+Calculate configurable indicators:
+- TRIR.
+- LTIFR.
+- Severity Rate.
+- Near Miss Frequency.
+- First Aid Cases.
+- Lost Workdays.
+- Incident Trends.
+
+Allow organization-specific formulas and clearly identify reporting assumptions.
+
+---
+
+# 11. STAGE 7 – GLOBAL LEGAL COMPLIANCE ENGINE
+
+Implement the complete Global Legal & ISO Compliance Engine in Section 4.8, including India-specific Factories Act 1948 to OSHWC Code transition mapping and edition-wise standards verification.
+
+Create a dynamic legal register and compliance evaluation platform.
+
+Features:
+- Country selection.
+- State selection.
+- Local jurisdiction.
+- Industry selection.
+- Site applicability.
+- Activity applicability.
+- Legal requirement mapping.
+- Mandatory document mapping.
+- Licence and consent register.
+- Statutory inspection schedule.
+- Statutory return register.
+- Legal renewal calendar.
+- Compliance owner.
+- Evidence upload.
+- Compliance status.
+- Non-compliance tracking.
+- Legal update history.
+
+Compliance status:
+- Compliant.
+- Partially Compliant.
+- Non-Compliant.
+- Not Applicable.
+- Pending Verification.
+- Under Review.
+
+AI legal assistant must:
+1. Identify potentially applicable requirements.
+2. Explain the reason for applicability.
+3. Recommend supporting documents.
+4. Identify missing evidence.
+5. Flag renewal dates.
+6. Generate compliance checklists.
+7. Suggest corrective actions.
+8. Provide official source links.
+
+Important:
+Never declare a site legally compliant based only on AI suggestions. Require legal applicability assessment and competent approval.
+
+---
+
+# 12. STAGE 8 – ESG + GHG + ISO 50001 ENERGY MANAGEMENT
+
+Develop an integrated ESG, sustainability, carbon and energy management platform.
+
+### ESG Management
+- ESG Policy.
+- ESG Strategy.
+- Materiality Assessment.
+- ESG Risk Register.
+- ESG KPI Register.
+- ESG Action Plan.
+- Sustainability Reporting.
+- ESG Governance.
+- Social Performance.
+- Governance Performance.
+
+### GHG Management
+
+Support:
+- Scope 1.
+- Scope 2.
+- Scope 3.
+- Organizational Boundaries.
+- Operational Boundaries.
+- Activity Data.
+- Emission Factors.
+- CO2e Calculation.
+- Carbon Inventory.
+- Carbon Reduction Plan.
+- GHG Verification Records.
+
+### Reporting Frameworks
+
+Include configurable mapping for:
+- GHG Protocol.
+- GRI Standards.
+- BRSR.
+- BRSR Core.
+- IFRS S1.
+- IFRS S2.
+- CSRD / ESRS.
+- Applicable sustainability reporting frameworks.
+
+Support jurisdiction-specific reporting applicability and reporting-year versions.
+
+### ISO 50001:2018 Energy Management
+
+Build:
+- Energy Policy.
+- Energy Review.
+- Energy Baseline.
+- Energy Performance Indicators.
+- Significant Energy Uses.
+- Energy Data Collection.
+- Energy Consumption Monitoring.
+- Energy Audit.
+- Energy Action Plan.
+- Energy Performance Improvement.
+- Management Review.
+- Internal Audit.
+- Corrective Actions.
+
+Include electricity, diesel, gas, steam, compressed air, HVAC, boilers, chillers, generators and renewable energy.
+
+Generate:
+- Monthly Energy Report.
+- Energy Performance Dashboard.
+- Carbon Emissions Report.
+- Sustainability Report.
+- Energy Saving Opportunities.
+- Decarbonization Roadmap.
+
+---
+
+# 13. STAGE 9 – AI EHS COMMAND CENTER AND ENTERPRISE DASHBOARD
+
+Build a centralized executive dashboard for:
+
+- CEO.
+- COO.
+- Corporate EHS Head.
+- Regional EHS Manager.
+- Plant Head.
+- Site Head.
+- Safety Manager.
+- EHS Officer.
+- Department Manager.
+- Auditor.
+
+### Dashboard KPIs
+
+Safety:
+- Total Incidents.
+- Fatalities.
+- LTI.
+- TRIR.
+- LTIFR.
+- Near Misses.
+- Unsafe Conditions.
+- Open CAPA.
+- Overdue CAPA.
+
+Compliance:
+- Total Applicable Requirements.
+- Compliance Percentage.
+- Overdue Legal Actions.
+- Expiring Licences.
+- Pending Inspections.
+
+Documents:
+- Total Documents.
+- Approved Documents.
+- Documents Under Review.
+- Documents Due for Revision.
+- Expired Documents.
+
+Operations:
+- Active Permits.
+- Overdue Inspections.
+- Training Compliance.
+- Contractor Compliance.
+- PPE Compliance.
+
+Environment:
+- Energy Consumption.
+- Water Consumption.
+- Waste Generation.
+- Hazardous Waste.
+- Environmental Incidents.
+
+ESG:
+- Scope 1 Emissions.
+- Scope 2 Emissions.
+- Scope 3 Emissions.
+- Carbon Intensity.
+- ESG Performance.
+
+Energy:
+- Energy Baseline.
+- Energy Performance.
+- Energy Savings.
+- Significant Energy Uses.
+
+### AI Assistant
+
+Create an integrated AI EHS Assistant capable of:
+
+- Answering EHS questions.
+- Searching documents.
+- Creating HIRA.
+- Creating JSA.
+- Creating SOPs.
+- Creating Method Statements.
+- Generating Toolbox Talks.
+- Creating inspection checklists.
+- Drafting incident reports.
+- Performing RCA assistance.
+- Preparing CAPA.
+- Finding missing documents.
+- Summarizing audits.
+- Preparing monthly reports.
+- Identifying risk trends.
+- Suggesting safety improvements.
+- Supporting ESG and GHG calculations.
+
+AI must use approved organizational information and clearly distinguish verified facts from suggestions.
+
+---
+
+# 14. STAGE 10 – MOBILE APPLICATION AND NOTIFICATIONS
+
+Build responsive Android, iOS and web interfaces.
+
+Mobile functions:
+- Login.
+- Dashboard.
+- Incident Reporting.
+- Near Miss Reporting.
+- Unsafe Condition Reporting.
+- HIRA.
+- JSA.
+- PTW.
+- Safety Inspection.
+- Audit.
+- CAPA.
+- Toolbox Talk.
+- Training Attendance.
+- QR Code Scanning.
+- Document Access.
+- Photo Upload.
+- Digital Signatures.
+- Emergency Contacts.
+- Notifications.
+
+Support offline data capture with secure synchronization when connectivity returns.
+
+Notifications:
+- Document Expiry.
+- Permit Expiry.
+- Inspection Due.
+- Audit Due.
+- CAPA Overdue.
+- Training Expiry.
+- Licence Renewal.
+- Medical Surveillance Due.
+- Emergency Alerts.
+- Legal Updates.
+- Energy Reporting Due.
+
+Support email, in-app and configurable push notifications.
+
+---
+
+# 15. ENTERPRISE DATABASE ARCHITECTURE
+
+Design a normalized, scalable relational database.
+
+### Core Tables
+
+1. tenants
+2. organizations
+3. business_units
+4. countries
+5. states
+6. sites
+7. departments
+8. industries
+9. industry_activities
+10. users
+11. roles
+12. permissions
+13. user_assignments
+
+### Dynamic Module Tables
+
+14. modules
+15. module_relationships
+16. module_industries
+17. module_permissions
+18. custom_fields
+19. custom_form_definitions
+20. custom_form_submissions
+
+### Document Tables
+
+21. document_master
+22. document_categories
+23. document_templates
+24. document_versions
+25. document_attachments
+26. document_approvals
+27. document_references
+28. document_permissions
+29. document_revision_history
+
+### Safety Tables
+
+30. hazards
+31. risk_assessments
+32. risk_assessment_items
+33. risk_controls
+34. permits
+35. permit_isolations
+36. permit_gas_tests
+37. inspections
+38. inspection_checklists
+39. inspection_findings
+40. incidents
+41. incident_investigations
+42. root_cause_analyses
+43. corrective_actions
+44. training_records
+45. competency_records
+
+### Compliance Tables
+
+46. legislation_master
+47. legislation_versions
+48. standards_master
+49. compliance_requirements
+50. compliance_applicability
+51. compliance_assessments
+52. licences_and_consents
+53. statutory_inspections
+
+### ESG and Energy Tables
+
+54. esg_metrics
+55. ghg_inventory
+56. emission_factors
+57. carbon_calculations
+58. energy_baselines
+59. energy_consumption
+60. energy_performance_indicators
+61. sustainability_reports
+
+### System Tables
+
+62. notifications
+63. notification_rules
+64. audit_logs
+65. ai_generation_history
+66. workflow_definitions
+67. workflow_instances
+68. integrations
+69. system_settings
+
+Add additional tables whenever necessary.
+
+Database requirements:
+- Unique primary keys.
+- Foreign keys.
+- Referential integrity.
+- Indexes.
+- Tenant isolation.
+- Role-based access.
+- Soft deletion.
+- Audit logging.
+- Version control.
+- Secure attachments.
+- Backup and recovery.
+- Data retention rules.
+- Privacy controls.
+
+Use a dynamic hierarchy with parent_id, hierarchy depth and configurable relationships. Do not impose a fixed parent-child depth.
+
+---
+
+# 16. USER ROLES AND PERMISSIONS
+
+Create role-based access for:
+
+1. Super Admin.
+2. Organization Admin.
+3. Corporate EHS Head.
+4. Regional EHS Manager.
+5. Site EHS Manager.
+6. Safety Manager.
+7. EHS Officer.
+8. Environmental Manager.
+9. Occupational Health Manager.
+10. Energy Manager.
+11. ESG Manager.
+12. Department Head.
+13. Permit Issuer.
+14. Permit Receiver.
+15. Contractor.
+16. Employee.
+17. Auditor.
+18. Viewer.
+
+Allow custom roles and granular permissions.
+
+Support multi-company and multi-site access without allowing unauthorized cross-tenant data access.
+
+---
+
+# 17. DOCUMENT GENERATION AND EXPORT
+
+Support:
+- Editable online forms.
+- DOCX.
+- PDF.
+- XLSX.
+- CSV.
+- PPTX.
+- JPG.
+- PNG.
+
+Provide document generation templates with:
+- Company logo.
+- Document ID.
+- Document title.
+- Revision.
+- Issue date.
+- Review date.
+- Prepared by.
+- Reviewed by.
+- Approved by.
+- Page number.
+- Confidentiality classification.
+- Revision history.
+- Approval signatures.
+
+Support custom document templates by industry and site.
+
+---
+
+# 18. PREMIUM UI AND BRANDING
+
+Brand name: ARSHIEL SAFETY.
+
+Create a modern enterprise-grade UI.
+
+Branding:
+- Charcoal / Matte Black.
+- Premium Gold.
+- White.
+- Professional grey.
+- Modern typography.
+- Clean icons.
+- Professional cards.
+- Interactive tables.
+- Responsive layouts.
+
+Main navigation:
+
+1. Home Dashboard
+2. EHS Management
+3. Industry Library
+4. Document Management
+5. AI Document Generator
+6. HIRA / JSA / Risk Assessment
+7. Permit to Work
+8. Inspections & Audits
+9. Incident Management
+10. CAPA Management
+11. Legal Compliance
+12. ISO Standards
+13. Fire & Emergency
+14. Occupational Health
+15. Environment
+16. Contractor Management
+17. Training & Competency
+18. ESG & Sustainability
+19. GHG & Carbon
+20. Energy Management
+21. AI Assistant
+22. Reports & Analytics
+23. Mobile Management
+24. Admin Settings
+
+Use collapsible navigation, global search, filters and configurable dashboards.
+
+---
+
+# 19. AUTOMATION AND INTEGRATION
+
+Create automation for:
+
+- Document revision reminders.
+- Legal renewal reminders.
+- Permit expiry alerts.
+- Inspection scheduling.
+- CAPA follow-ups.
+- Training expiry.
+- Incident escalation.
+- Audit scheduling.
+- ESG reporting.
+- Energy reporting.
+- Management review scheduling.
+
+Create API-ready architecture for:
+- Email systems.
+- Microsoft 365.
+- SharePoint.
+- Power BI.
+- HRMS.
+- ERP.
+- Identity providers.
+- Cloud storage.
+- External reporting platforms.
+
+Use integrations only after authorization and configuration.
+
+---
+
+# 20. SECURITY, GOVERNANCE AND QUALITY
+
+Implement:
+- Secure authentication.
+- Multi-factor authentication support.
+- Encryption in transit and at rest.
+- Role-based access.
+- Tenant isolation.
+- Audit trail.
+- Secure attachment storage.
+- Session management.
+- Backup and recovery.
+- Data export.
+- Data retention.
+- Privacy controls.
+- Approval history.
+
+AI governance:
+- Every AI-generated EHS document remains a draft until reviewed and approved by an authorized competent person.
+- AI must not sign, approve, issue or release operational documents or permits.
+- Display source, edition, verification date and verification status for legal and standards references.
+- No automatic legal compliance certification.
+- No automatic approval of high-risk permits.
+- No unverified legal interpretations.
+- No fabricated ISO clauses.
+- No fabricated OSHWC / Factories Act transition mappings.
+- No unverified edition or adoption claims for ISO, OSHA, NFPA, NBC or other standards.
+- No fabricated NFPA references.
+- No invented statutory frequencies.
+- No reproduction of copyrighted standards.
+- Human approval for operationally critical outputs.
+
+Maintain a source and verification record for every legal or technical reference.
+
+---
+
+# 21. TESTING AND QUALITY ASSURANCE
+
+Test all modules before deployment.
+
+Mandatory testing:
+
+1. User login.
+2. Role permissions.
+3. Company creation.
+4. Industry creation.
+5. Parent module creation.
+6. Child module creation.
+7. Unlimited hierarchy.
+8. Document creation.
+9. Document editing.
+10. Document versioning.
+11. AI HIRA generation.
+12. AI JSA generation.
+13. Permit approval.
+14. Inspection submission.
+15. Incident investigation.
+16. CAPA closure.
+17. Legal applicability.
+18. ISO reference mapping.
+19. ESG calculations.
+20. GHG calculations.
+21. Energy reporting.
+22. Dashboard analytics.
+23. PDF export.
+24. Word export.
+25. Mobile functionality.
+26. Notifications.
+27. Security and access controls.
+28. Backup and restore.
+
+Do not show buttons that do not work.
+
+Do not use dummy data as proof of functional completion.
+
+---
+
+# 22. DEVELOPMENT EXECUTION INSTRUCTIONS
+
+Develop all 10 stages as one integrated software platform.
+
+Follow this implementation order:
+
+STAGE 1 – Global EHS Master Database.
+
+STAGE 2 – Dynamic Parent–Child Document Builder.
+
+STAGE 3 – AI HIRA / JSA / Risk Assessment.
+
+STAGE 4 – Permit to Work Management.
+
+STAGE 5 – Inspection & Audit Management.
+
+STAGE 6 – Incident & CAPA Management.
+
+STAGE 7 – Global Legal Compliance Engine.
+
+STAGE 8 – ESG + GHG + ISO 50001 Energy Management.
+
+STAGE 9 – AI EHS Command Center and Dashboard.
+
+STAGE 10 – Mobile App + Notifications.
+
+For each stage:
+
+1. Design database schema.
+2. Build backend APIs.
+3. Develop frontend screens.
+4. Connect database.
+5. Implement validation.
+6. Implement role permissions.
+7. Test complete workflows.
+8. Fix errors.
+9. Update documentation.
+10. Mark stage complete only after functional testing.
+
+Do not stop after creating the frontend.
+
+Do not replace working database functionality with static mockups.
+
+Do not remove previously completed functionality when adding new stages.
+
+Preserve all existing data and module relationships during upgrades.
+
+---
+
+# 23. FINAL EXPECTED DELIVERABLE
+
+Deliver a complete ARSHIEL SAFETY enterprise platform that allows a company to manage all EHS operations from one system.
+
+The software must support:
+
+- All industries.
+- All countries.
+- Multiple organizations.
+- Multiple sites.
+- Multiple departments.
+- Unlimited configurable industries and dynamic module hierarchy at arbitrary depth.
+- Activity-based AI EHS document generation across all supported document types.
+- Global legal and ISO applicability engine with jurisdiction, activity and edition-wise mapping.
+- India Factories Act 1948 / OSHWC Code transition register with official-source verification.
+- Competent-person review and controlled approval for all operational documents.
+- Thousands of documents.
+- Original editable templates.
+- AI document generation.
+- Global statutory references.
+- ISO management systems.
+- OSHA and NFPA mapping.
+- IOSH professional guidance.
+- Risk assessments.
+- Permit to Work.
+- Inspections and audits.
+- Incident management.
+- CAPA.
+- ESG.
+- GHG.
+- Sustainability.
+- ISO 50001 Energy Management.
+- Enterprise dashboards.
+- Mobile operations.
+- Notifications.
+- Advanced reporting.
+
+**MOST IMPORTANT:**
+
+Build ARSHIEL SAFETY as a scalable, modular, configurable and AI-powered enterprise EHS software product, not as a collection of disconnected forms.
+
+All 10 stages must share the same database, document engine, user management, workflow engine, reference library and audit trail.
+
+Begin by inspecting the existing application and importing the supplied ARSHIEL Excel and Word files. Preserve existing functionality and data. Identify what is already implemented, what is incomplete and what is missing. Then implement and test each stage in sequence.
+
+At the end, provide a development completion report showing:
+- Completed features.
+- Incomplete features.
+- Database tables created.
+- APIs implemented.
+- Screens implemented.
+- Successful test results.
+- Remaining dependencies.
+- Deployment instructions.

@@ -1,0 +1,12 @@
+/* TEAM */
+Founder, Owner, Creator & Software Developer: Jonathan Thadanki
+Brand: ARSHIEL SAFETY — ARSHIEL EHS AI SOLUTIONS
+Email: jonathan.tadanki@gmail.com
+Phone: +91 9133 661 933 / +91 81 84 83 40 60 / +91 81 86 80 88 48
+Location: Global Enterprise Deployment
+
+/* SITE */
+Product: ARSHIEL SAFETY
+Tagline: Smarter Safety. Safer Tomorrow.
+Motto: BUILD ON TRUST, DRIVEN BY EXCELLENCE.
+Standards: HTML5, CSS3, TypeScript, React, Progressive Web App (PWA), Schema.org JSON-LD

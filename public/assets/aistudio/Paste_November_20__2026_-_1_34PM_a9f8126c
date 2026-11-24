@@ -1,0 +1,1002 @@
+# MASTER IMPLEMENTATION PROMPT – ARSHIEL SAFETY
+## Enterprise EHS Dashboard, KPI Segregation, Permit-to-Work Workflow, RBAC, Super Admin Control & Audit Trail
+
+Act as a Senior Enterprise EHS Software Architect, Full-Stack Developer, UI/UX Designer, Database Architect, Cybersecurity Specialist and Workflow Automation Engineer.
+
+I want you to upgrade my existing ARSHIEL SAFETY application into a professional, enterprise-grade, AI-driven EHS Management Platform.
+
+IMPORTANT:
+- Do not create a new application.
+- Do not delete existing working modules, records, forms, templates, users, or database information.
+- Inspect the existing application and database before making changes.
+- Reorganize existing modules into the structure specified below.
+- Reuse existing data wherever possible.
+- Do not duplicate modules or KPI records.
+- Preserve existing functionality while upgrading the architecture.
+- All features must work on Desktop, Laptop, Tablet and Mobile.
+
+# 1. MAIN EHS DASHBOARD – SIX SEPARATE KPI CATEGORIES
+
+Currently, the main EHS dashboard contains multiple mixed formats and KPI categories.
+
+Reorganize the entire dashboard into six independent sections.
+
+Each section must have:
+- Separate heading.
+- Separate KPI cards.
+- Separate data sources.
+- Separate charts and graphs.
+- Separate drill-down reports.
+- Separate filters.
+- Separate export functionality.
+- Individual performance tracking.
+- Monthly, Quarterly and Annual reports.
+- Site-wise, Department-wise and Employee-wise analytics.
+
+Do not mix Leading Indicators, Lagging Indicators, Workforce KPIs, Actions, Permits and Compliance.
+
+## SECTION 1 – WORKFORCE MANAGEMENT
+
+Create a separate main heading:
+
+WORKFORCE
+
+Include all existing workforce-related modules and add the following missing modules:
+
+1. Total Workforce
+2. Permanent Employees
+3. Contract Employees
+4. Temporary Employees
+5. Visitors
+6. Third-Party Workforce
+7. Manpower by Department
+8. Manpower by Contractor
+9. Manpower by Project
+10. Manpower by Location
+11. Manpower by Shift
+12. Employee Attendance
+13. Daily Workforce Strength
+14. Workforce Deployment
+15. New Employee Joining
+16. Employee Exit
+17. Employee Induction Status
+18. Safety Induction Completion
+19. Employee Competency
+20. Skill Matrix
+21. Safety Training Status
+22. Employee Medical Fitness Status
+23. PPE Issuance Records
+24. Employee Safety ID Records
+25. Contractor Workforce Management
+26. Workforce Ageing Reports
+27. Working Hours
+28. Overtime Monitoring
+29. Toolbox Talk Participation
+30. Workforce Safety Performance
+
+Additional KPIs:
+- Total Manhours Worked
+- Manhours Without Lost Time Injury
+- Average Workforce Strength
+- Contractor Compliance Percentage
+- Training Coverage Percentage
+- Induction Completion Percentage
+
+Show Workforce distribution using charts and visual analytics.
+
+## SECTION 2 – LAGGING INDICATORS
+
+Create a separate heading:
+
+LAGGING INDICATORS
+
+Include all existing lagging indicator modules and add:
+
+1. Fatalities
+2. Lost Time Injuries (LTI)
+3. Lost Time Injury Frequency Rate (LTIFR)
+4. Total Recordable Injuries (TRI)
+5. Total Recordable Incident Rate (TRIR)
+6. Medical Treatment Cases (MTC)
+7. First Aid Cases (FAC)
+8. Restricted Work Cases (RWC)
+9. Lost Workdays
+10. Near Miss Incidents
+11. Unsafe Acts
+12. Unsafe Conditions
+13. Property Damage Incidents
+14. Fire Incidents
+15. Electrical Incidents
+16. Environmental Incidents
+17. Chemical Spills
+18. Occupational Illnesses
+19. Occupational Diseases
+20. Vehicle Accidents
+21. Equipment-Related Incidents
+22. Contractor Incidents
+23. Public Safety Incidents
+24. Process Safety Incidents
+25. High-Potential Incidents
+26. Incident Investigation Status
+27. Root Cause Analysis
+28. Corrective and Preventive Actions
+29. Incident Severity Classification
+30. Emergency Events
+
+Include:
+- Monthly incident trends.
+- Year-to-date incident statistics.
+- Department-wise incident analysis.
+- Contractor-wise incident analysis.
+- Incident severity distribution.
+- Incident frequency trends.
+- Benchmark comparisons.
+
+All rate calculations must use configurable and clearly documented formulas and the applicable exposure-hour denominator.
+
+## SECTION 3 – LEADING INDICATORS
+
+Create a separate heading:
+
+LEADING INDICATORS
+
+Include all existing leading indicator modules and add:
+
+1. Safety Training Conducted
+2. Toolbox Talks Conducted
+3. Safety Inspections
+4. Workplace Safety Audits
+5. Internal EHS Audits
+6. External EHS Audits
+7. Behaviour-Based Safety Observations
+8. Safety Walkthroughs
+9. Leadership Safety Walks
+10. Hazard Identification
+11. Risk Assessments Completed
+12. HIRA Completion
+13. JSA/JHA Completion
+14. Safety Suggestions
+15. Near-Miss Reporting Participation
+16. Emergency Mock Drills
+17. Fire Drills
+18. Emergency Response Training
+19. Safety Committee Meetings
+20. Safety Campaigns
+21. Safety Awareness Programs
+22. Contractor Safety Audits
+23. PPE Compliance Inspections
+24. Equipment Safety Inspections
+25. LOTO Audits
+26. Work Permit Audits
+27. Environmental Inspections
+28. Legal Compliance Reviews
+29. Preventive Maintenance Safety Checks
+30. Safety Observation Closure Rate
+
+Additional KPIs:
+- Training Completion %
+- Inspection Completion %
+- Audit Completion %
+- Hazard Identification Rate
+- Risk Assessment Coverage
+- Safety Observation Closure %
+- Preventive Action Completion %
+
+## SECTION 4 – ACTION MANAGEMENT
+
+Create a separate heading:
+
+ACTIONS
+
+Include all existing action-related modules and add:
+
+1. Open Actions
+2. Closed Actions
+3. Overdue Actions
+4. Pending Actions
+5. Assigned Actions
+6. Corrective Actions
+7. Preventive Actions
+8. Immediate Actions
+9. Incident-Related Actions
+10. Audit Findings Actions
+11. Inspection Findings Actions
+12. Safety Observation Actions
+13. Risk Assessment Actions
+14. HIRA Actions
+15. JSA/JHA Actions
+16. Compliance-Related Actions
+17. Environmental Actions
+18. Fire Safety Actions
+19. Contractor Actions
+20. Equipment Safety Actions
+21. Training-Related Actions
+22. Emergency Preparedness Actions
+23. Department-Wise Action Tracking
+24. Responsible Person Tracking
+25. Action Due-Date Tracking
+26. Action Escalation
+27. Action Effectiveness Verification
+28. Action Closure Approval
+29. Reopened Actions
+30. Pending Verification
+
+Each action must have:
+- Unique Action ID.
+- Source module.
+- Description.
+- Risk priority.
+- Assigned department.
+- Responsible person.
+- Creation date.
+- Due date.
+- Status.
+- Supporting evidence.
+- Closure remarks.
+- Verification status.
+- Approval history.
+
+Statuses:
+Open, Assigned, In Progress, Pending Verification, Closed, Rejected, Reopened and Overdue.
+
+## SECTION 5 – PERMIT TO WORK MANAGEMENT
+
+Create a separate heading:
+
+PERMITS
+
+Include all existing permit modules and add:
+
+1. Hot Work Permit
+2. Cold Work Permit
+3. Work at Height Permit
+4. Confined Space Entry Permit
+5. Electrical Work Permit
+6. Excavation Permit
+7. Lifting and Rigging Permit
+8. Critical Lifting Permit
+9. Line Breaking Permit
+10. Electrical Isolation Permit
+11. LOTO Permit
+12. Pressure Testing Permit
+13. Radiography Permit
+14. Chemical Handling Permit
+15. Roof Work Permit
+16. Demolition Permit
+17. Painting Permit
+18. Welding and Cutting Permit
+19. Maintenance Work Permit
+20. General Work Permit
+21. SIMOPS Permit
+22. Night Work Permit
+23. Emergency Work Permit
+
+Include:
+- Permit Request
+- Permit Review
+- Risk Assessment
+- JSA/JHA Attachment
+- PPE Verification
+- Isolation Verification
+- Gas Testing
+- Toolbox Talk Confirmation
+- Worksite Inspection
+- Permit Approval
+- Permit Issuance
+- Permit Suspension
+- Permit Revalidation
+- Permit Extension
+- Permit Closure
+- Permit Cancellation
+- Permit History
+
+Every permit must have a unique Permit ID and complete approval history.
+
+## SECTION 6 – EHS COMPLIANCE MANAGEMENT
+
+Create a separate heading:
+
+COMPLIANCE
+
+Include all existing compliance-related modules and add:
+
+### A. Legal Compliance
+1. Factories Act, 1948 – applicable legacy requirements
+2. Applicable Occupational Safety, Health and Working Conditions Code requirements
+3. State Factory Rules
+4. Environment Protection Act
+5. Air Act
+6. Water Act
+7. Hazardous and Other Wastes Rules
+8. E-Waste Management Rules
+9. Chemical Safety Regulations
+10. Fire Safety Requirements
+11. Electrical Safety Requirements
+12. Building and Construction Safety Requirements
+13. Applicable Labour Laws
+14. Applicable State and Central Notifications
+15. Consent to Establish
+16. Consent to Operate
+17. Factory Licence
+18. Fire NOC
+19. Environmental Permissions
+20. Statutory Registers and Returns
+
+### B. ISO Management Systems
+1. ISO 45001
+2. ISO 14001
+3. ISO 50001
+4. ISO 9001
+5. ISO 22301
+6. ISO 31000
+
+### C. International Standards and Guidelines
+1. OSHA
+2. IOSH
+3. NFPA
+4. NBC
+5. IEC
+6. ILO
+7. Applicable BIS Standards
+
+### D. ESG and Sustainability
+1. ESG Reporting
+2. GHG Emissions
+3. Carbon Footprint
+4. Scope 1 Emissions
+5. Scope 2 Emissions
+6. Scope 3 Emissions
+7. Energy Consumption
+8. Water Consumption
+9. Waste Management
+10. BRSR Reporting
+11. GRI Reporting
+12. CSRD Reporting
+13. Sustainability Performance
+14. Environmental Targets
+
+### E. Compliance Tracking
+- Compliance Calendar
+- Statutory Due Dates
+- Licence Expiry Alerts
+- Legal Register
+- Compliance Obligations
+- Evidence Attachments
+- Responsible Person
+- Compliance Status
+- Non-Compliance Records
+- Corrective Actions
+- Compliance Verification
+- Department-Wise Compliance
+- Site-Wise Compliance
+
+IMPORTANT:
+Legal requirements must be configurable by country, state, industry and applicable jurisdiction. Do not automatically mark a regulation as applicable without an applicability assessment. Display effective dates, amendments and source references wherever available.
+
+# 2. POWERFUL EHS KPI DASHBOARD
+
+Create an enterprise-level KPI dashboard for all six categories.
+
+Dashboard requirements:
+
+- Six separate KPI navigation tabs or expandable sections.
+- Modern professional corporate UI.
+- KPI summary cards.
+- Trend charts.
+- Monthly and annual comparisons.
+- Department-wise comparison.
+- Site-wise comparison.
+- Contractor-wise comparison.
+- Risk heat maps.
+- Performance indicators.
+- Drill-down analytics.
+- Custom date filters.
+- Downloadable PDF and Excel reports.
+- Print functionality.
+- Automated report generation.
+
+Provide separate dashboards for:
+1. Workforce Dashboard
+2. Lagging Indicators Dashboard
+3. Leading Indicators Dashboard
+4. Actions Dashboard
+5. Permits Dashboard
+6. Compliance Dashboard
+
+Do not place all KPIs into one mixed chart.
+
+# 3. PERMIT REQUEST AND APPROVAL WORKFLOW
+
+Implement a strict role-based Permit-to-Work approval system.
+
+Approval hierarchy:
+
+STEP 1 – PERMIT REQUESTER
+
+Any authorized logged-in employee or contractor can submit a permit request.
+
+Requester can:
+- Create Permit Request.
+- View Own Permit Requests.
+- View Permit Status.
+- Edit permitted request details before submission.
+- Request Permit Extension.
+- Request Permit Closure.
+- Request Permit Revalidation.
+- View Approval Comments.
+- Upload Supporting Documents.
+
+After submitting a permit:
+- Lock the original submitted request fields.
+- Do not allow the requester to edit or overwrite submitted details.
+- Requester must not have Approve or Reject permissions.
+- Requester must not have Delete permission.
+- Requester can only request an extension or closure through the defined workflow.
+- All changes must be recorded in the audit trail.
+
+STEP 2 – DEPARTMENT HEAD / DEPARTMENT MANAGER
+
+The relevant department head receives the submitted permit request.
+
+Department Head permissions:
+- View assigned department permit requests.
+- Review the work scope.
+- Verify manpower and work requirements.
+- Review JSA/HIRA.
+- Review required precautions.
+- Add review comments.
+- Approve the departmental stage.
+- Reject the request with mandatory reasons.
+- Return the request for clarification where permitted.
+
+Department Head must NOT have:
+- Final Safety Approval.
+- Permission to bypass Safety approval.
+- Global permit deletion.
+- Super Admin permissions.
+
+STEP 3 – SAFETY DEPARTMENT
+
+After Department Head approval, the request must automatically move to the Safety Department.
+
+Safety Department permissions:
+- Review complete permit request.
+- Verify risk assessments.
+- Verify control measures.
+- Verify isolation requirements.
+- Verify gas testing where applicable.
+- Verify PPE.
+- Verify emergency arrangements.
+- Verify legal and site-specific requirements.
+- Approve final permit.
+- Reject permit with mandatory remarks.
+- Return permit for correction.
+- Suspend permit.
+- Revalidate permit where authorized.
+- Close permit where authorized.
+- Cancel permit where authorized.
+
+ONLY authorized Safety Approvers can provide FINAL PERMIT APPROVAL.
+
+A permit must never become Active or Issued before final Safety approval.
+
+Approval workflow:
+
+Requester Submission
+        ↓
+Department Head Review
+        ↓
+Department Head Approval
+        ↓
+Safety Department Review
+        ↓
+Safety Final Approval
+        ↓
+Permit Issued
+        ↓
+Work Execution
+        ↓
+Permit Closure
+
+If Department Head rejects:
+Return to requester with rejection reason.
+
+If Safety rejects:
+Return to requester with rejection reason and approval history.
+
+Every stage must record:
+- User ID
+- Name
+- Role
+- Department
+- Action performed
+- Date and time
+- Comments
+- Previous status
+- New status
+
+# 4. PERMIT SECURITY AND CONTROL RULES
+
+Implement the following strict rules:
+
+1. Requester cannot approve their own permit.
+2. Requester cannot reject their own permit.
+3. Department Head can approve only the departmental review stage.
+4. Department Head cannot issue final permit approval.
+5. Only authorized Safety Approvers can provide final approval.
+6. No user can bypass the approval sequence.
+7. No user can modify an already approved permit without a controlled revision.
+8. Any change to an approved permit must trigger re-review when it affects scope, risk or controls.
+9. Permit deletion must be restricted to Super Admin or specifically authorized Safety administrators, with mandatory reason and audit logging.
+10. Prefer soft deletion and archival rather than permanent deletion.
+11. Never delete an issued permit's historical records.
+12. Prevent self-approval and approval conflicts.
+13. Expired permits must automatically become Expired.
+14. Suspended permits cannot be used for work until formally revalidated.
+15. Extension requests must follow the configured approval workflow.
+16. All approval timestamps must be stored accurately.
+17. Notifications must be sent at every approval stage.
+18. Escalate overdue pending approvals.
+
+# 5. ROLE-BASED ACCESS CONTROL – RBAC
+
+Create a centralized Role and Permission Management system.
+
+Do not give every logged-in user administrator access.
+
+I am the ONLY SUPER ADMIN of ARSHIEL SAFETY.
+
+All other users must remain normal users with permissions according to their assigned roles.
+
+Create the following roles:
+
+ROLE 1 – SUPER ADMIN
+- Full application access.
+- All modules.
+- All dashboards.
+- All users.
+- All departments.
+- All sites.
+- All configurations.
+- All permissions.
+- User creation and deactivation.
+- Role assignment.
+- Permission management.
+- Audit logs.
+- System settings.
+- Global reports.
+- Database administration through secure authorized interfaces.
+- Full access to application monitoring.
+
+Only my verified Super Admin account must have this role.
+
+ROLE 2 – SYSTEM ADMIN
+- Limited technical administration.
+- User support.
+- Configuration access only where explicitly granted.
+- No automatic Super Admin access.
+- No authority to assign themselves Super Admin.
+
+ROLE 3 – EHS / HSE / SAFETY MANAGER
+- EHS Dashboard.
+- Leading Indicators.
+- Lagging Indicators.
+- Actions.
+- Permits.
+- Compliance.
+- Incident Management.
+- Risk Assessment.
+- Safety Reports.
+- Safety Approval permissions when specifically assigned.
+
+ROLE 4 – SAFETY OFFICER
+- Safety inspections.
+- Safety observations.
+- Incident reporting.
+- Risk assessments.
+- Toolbox Talks.
+- Training records.
+- Assigned permit verification.
+- Corrective action tracking.
+- No final permit approval unless separately authorized.
+
+ROLE 5 – DEPARTMENT HEAD / MANAGER
+- Department Dashboard.
+- Department Workforce.
+- Department Incidents.
+- Department Actions.
+- Department Compliance.
+- Department Permit Requests.
+- Departmental Permit Approval.
+- Department reports.
+
+ROLE 6 – SUPERVISOR
+- Assigned workforce.
+- Daily inspections.
+- Toolbox Talks.
+- Safety observations.
+- Work monitoring.
+- Permit requests.
+- Assigned action tracking.
+
+ROLE 7 – EMPLOYEE / WORKER
+- Own profile.
+- Safety induction.
+- Assigned training.
+- Report hazards.
+- Report near misses.
+- Submit safety suggestions.
+- Submit permit requests where authorized.
+- View own submitted requests.
+- No administrative permissions.
+
+ROLE 8 – CONTRACTOR
+- Contractor workforce.
+- Employee records.
+- Training and induction.
+- Contractor safety documents.
+- Permit requests.
+- Assigned compliance records.
+- No final approval permissions.
+
+ROLE 9 – AUDITOR
+- Read-only access to authorized records.
+- Audit reports.
+- Compliance evidence.
+- Historical records.
+- No modification or approval permissions.
+
+# 6. AUTOMATIC ROLE PERMISSION MATRIX
+
+Create a comprehensive permission matrix.
+
+Permissions must be separated into:
+
+- View
+- Create
+- Edit
+- Submit
+- Approve
+- Reject
+- Verify
+- Assign
+- Close
+- Extend
+- Suspend
+- Revalidate
+- Export
+- Delete
+- Configure
+
+Implement permissions independently for every module.
+
+Do not rely only on hiding buttons in the frontend.
+
+Enforce all permissions at the backend/API/database authorization layer.
+
+Provide a permission matrix that Super Admin can modify.
+
+Default permissions should follow least-privilege principles.
+
+No user should receive permissions simply because they are logged in.
+
+Sensitive actions must require additional authorization.
+
+# 7. SUPER ADMIN – COMPLETE ACTIVITY MONITORING
+
+Create a dedicated dashboard named:
+
+SUPER ADMIN CONTROL CENTER
+
+I must be able to monitor everything happening inside ARSHIEL SAFETY.
+
+Track:
+
+A. LOGIN ACTIVITY
+- User login.
+- Logout.
+- Failed login attempts.
+- Login date and time.
+- Session duration.
+- Device information.
+- Browser information.
+- Approximate IP/network information where legally permitted.
+- Account status.
+
+B. USER ACTIVITY
+- Which user opened the application.
+- Which module the user accessed.
+- Which dashboard the user viewed.
+- Which records the user created.
+- Which records the user edited.
+- Which records the user submitted.
+- Which records the user approved.
+- Which records the user rejected.
+- Which records the user deleted or archived.
+- Which documents the user downloaded or exported.
+
+C. CHANGE TRACKING
+
+Whenever any user modifies a record, immediately create an audit log.
+
+Display:
+
+- User Name
+- User ID
+- Assigned Role
+- Department
+- Module Name
+- Record ID
+- Previous Value
+- Updated Value
+- Action Performed
+- Reason for Change
+- Date
+- Time
+- Approval Status
+
+Example:
+
+User: Employee A
+Module: Permit to Work
+Action: Permit Request Submitted
+Permit ID: PTW-2026-001
+Date: 20-Nov-2026
+Status: Pending Department Head Approval
+
+Example:
+
+User: Department Manager
+Module: Permit to Work
+Action: Departmental Approval
+Permit ID: PTW-2026-001
+Status: Forwarded to Safety Department
+
+Example:
+
+User: Safety Manager
+Module: Permit to Work
+Action: Final Approval
+Permit ID: PTW-2026-001
+Status: Approved
+
+D. AUDIT LOG FEATURES
+- Search by User.
+- Search by Module.
+- Search by Record ID.
+- Search by Date.
+- Search by Action.
+- Search by Department.
+- Filter by Status.
+- Export Audit Logs.
+- View complete record history.
+- Compare previous and updated values.
+
+Audit logs must be append-only for normal users and administrators.
+
+No ordinary user must be able to modify or erase audit history.
+
+Only authorized Super Admin-controlled retention and archival processes may manage audit records, with tamper-evident logging.
+
+Never collect passwords, authentication tokens or sensitive credentials in activity logs.
+
+# 8. SUPER ADMIN ACCOUNT PROTECTION
+
+I must remain the only Super Admin.
+
+Implement:
+
+1. Unique Super Admin identity.
+2. Secure authentication.
+3. Multi-factor authentication where supported.
+4. Strong password policy.
+5. Session timeout.
+6. Account recovery security.
+7. Restricted Super Admin role assignment.
+8. Prevent users from changing their own roles.
+9. Prevent users from granting themselves permissions.
+10. Prevent duplicate Super Admin creation.
+11. Log all Super Admin actions.
+12. Notify Super Admin about critical account and permission changes.
+
+Do not assume that a user is Super Admin based only on their email address or frontend data.
+
+Use verified backend identity and protected role assignments.
+
+Existing login credentials must remain intact during migration.
+
+# 9. REMOVE LOGOUT FROM LAPTOP / DESKTOP APP VERSION
+
+In the current laptop/desktop version, remove the separately displayed Logout item from the bottom navigation/sidebar where it is duplicated or incorrectly positioned.
+
+IMPORTANT:
+- Do not disable logout functionality.
+- Keep a secure Logout option accessible inside the user profile/account menu.
+- Provide a clear user account menu in the top-right header.
+- Ensure the profile menu contains Profile, Account Settings and Logout.
+- On mobile, make Logout accessible inside the responsive profile menu.
+- Do not show the Super Admin account as a normal user.
+- Show the correct role and logged-in account information.
+
+Ensure responsive design across all screen sizes.
+
+# 10. DATABASE AND BACKEND ARCHITECTURE
+
+Review the existing database and upgrade it without losing data.
+
+Create or improve the following entities:
+
+1. Users
+2. Roles
+3. Permissions
+4. UserRoles
+5. RolePermissions
+6. Departments
+7. Sites
+8. Contractors
+9. Workforce
+10. KPI Categories
+11. KPI Definitions
+12. KPI Records
+13. Incidents
+14. Safety Observations
+15. Inspections
+16. Audits
+17. Actions
+18. Permits
+19. Permit Approvals
+20. Permit Revisions
+21. Permit Extensions
+22. Compliance Requirements
+23. Compliance Records
+24. Training Records
+25. Notifications
+26. Login Sessions
+27. Activity Logs
+28. Audit History
+29. Document Attachments
+30. System Configurations
+
+Use appropriate primary keys, foreign keys, indexes, access controls and timestamps.
+
+Ensure:
+- Data consistency.
+- Transaction-safe approvals.
+- Unique record IDs.
+- Referential integrity.
+- Secure document storage.
+- Backup and recovery.
+- Audit history preservation.
+
+# 11. NOTIFICATIONS AND ALERTS
+
+Create automated notifications for:
+
+- New Permit Request.
+- Pending Department Head Approval.
+- Pending Safety Approval.
+- Permit Rejection.
+- Permit Final Approval.
+- Permit Expiry.
+- Permit Extension Request.
+- Overdue Actions.
+- New Incident.
+- High-Risk Incident.
+- Compliance Due Dates.
+- Licence Expiry.
+- Training Expiry.
+- User Account Changes.
+- Critical Permission Changes.
+
+Notifications must be sent only to relevant authorized users.
+
+# 12. USER INTERFACE DESIGN
+
+Create a clean, modern, enterprise-grade EHS application.
+
+Main dashboard navigation:
+
+1. Workforce
+2. Lagging Indicators
+3. Leading Indicators
+4. Actions
+5. Permits
+6. Compliance
+
+Each section must open its own dedicated dashboard.
+
+Design requirements:
+- Professional corporate appearance.
+- Clean KPI cards.
+- Consistent spacing.
+- Clear typography.
+- Easy navigation.
+- Search and filters.
+- Responsive side navigation.
+- Mobile-friendly cards.
+- Readable charts.
+- Role-specific dashboards.
+- Consistent color coding for status.
+- Accessible forms and controls.
+
+Do not overcrowd the homepage.
+
+# 13. FINAL IMPLEMENTATION AND VALIDATION
+
+Before declaring the project complete, perform the following tests:
+
+TEST 1:
+Verify all six EHS dashboard categories are separately displayed.
+
+TEST 2:
+Verify existing KPI records are retained and correctly categorized.
+
+TEST 3:
+Verify new KPI categories and missing modules are added without duplicates.
+
+TEST 4:
+Verify a normal employee can submit a permit request.
+
+TEST 5:
+Verify the requester cannot approve, reject or delete their submitted permit.
+
+TEST 6:
+Verify Department Head can approve the departmental stage or reject with reasons.
+
+TEST 7:
+Verify Department Head cannot provide final permit approval.
+
+TEST 8:
+Verify the Safety Department receives the permit after departmental approval.
+
+TEST 9:
+Verify only authorized Safety Approvers can issue final approval.
+
+TEST 10:
+Verify no permit can be issued without final Safety approval.
+
+TEST 11:
+Verify every user action is recorded in the Super Admin Audit Trail.
+
+TEST 12:
+Verify users cannot change their own permissions or become Super Admin.
+
+TEST 13:
+Verify I remain the only Super Admin.
+
+TEST 14:
+Verify Logout is accessible through the account menu on Desktop, Laptop and Mobile.
+
+TEST 15:
+Verify all existing login credentials and historical records are retained.
+
+TEST 16:
+Verify all permissions are enforced at the backend.
+
+TEST 17:
+Verify notifications and escalation workflows.
+
+TEST 18:
+Verify responsive functionality on mobile, tablet and desktop.
+
+# FINAL INSTRUCTION
+
+Do not just redesign the user interface.
+
+Implement the actual backend logic, database relationships, role permissions, approval workflows, audit logs, notifications and dashboard calculations.
+
+First inspect the existing application, identify the current modules and their data relationships, then implement these changes incrementally.
+
+Do not delete existing working functionality.
+
+Do not use dummy data to claim completion.
+
+Do not mark any feature as completed unless it has been implemented and tested.
+
+If an existing backend or platform limitation prevents a feature from working, clearly identify the limitation and provide the required implementation steps.
+
+The final result must be a secure, scalable, responsive, enterprise-grade ARSHIEL SAFETY EHS Management Platform.
+
+MY ACCOUNT MUST REMAIN THE ONLY SUPER ADMIN ACCOUNT.
+
+ALL OTHER USERS MUST BE NORMAL USERS WITH ONLY THEIR ASSIGNED ROLE-BASED PERMISSIONS.

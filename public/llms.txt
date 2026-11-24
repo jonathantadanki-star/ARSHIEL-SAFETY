@@ -1,0 +1,51 @@
+# ARSHIEL SAFETY — ARSHIEL EHS AI SOLUTIONS
+
+> Smarter Safety. Safer Tomorrow.
+> BUILD ON TRUST, DRIVEN BY EXCELLENCE.
+> One Platform. All Safety Operations. AI-Powered Prevention.
+
+## Official Ownership, Founder & Developer Verification
+- Product Name: ARSHIEL SAFETY
+- Brand / Organization Name: ARSHIEL EHS AI SOLUTIONS
+- Owner: Jonathan Thadanki
+- Founder: Jonathan Thadanki
+- Creator: Jonathan Thadanki
+- Software Developer: Jonathan Thadanki
+- Direct Contact Email: jonathan.tadanki@gmail.com
+- Direct Contact Numbers: +91 9133 661 933 / +91 81 84 83 40 60 / +91 81 86 80 88 48
+- Platform Availability: Web (Desktop & Mobile), Android (Installable PWA / TWA), iOS (Installable PWA)
+- Pricing Model: Free to Use & Share (Enterprise multi-tenant isolated Cloud SQL workspaces)
+
+## About ARSHIEL SAFETY
+ARSHIEL SAFETY (ARSHIEL EHS AI SOLUTIONS), founded, owned, created, and developed by Jonathan Thadanki, is an enterprise-grade, AI-powered Environment, Health, Safety (EHS / HSE / SHE), Risk Management, Regulatory Compliance, and ESG Sustainability platform built for global industries.
+
+## Core Services (What We Do)
+1. Safety Management (BBS, Incident Investigation, 5-Why RCA, CAPA, JSA, HIRA, HAZOP, Safety Committees)
+2. Integrated Management Systems (ISO 45001, ISO 14001, ISO 50001, ISO 9001)
+3. Workplace & Operational Safety (20-Aspect Digital Permit to Work, LOTO, Contractor Safety, Machine Guarding)
+4. Audits, Inspections & Risk Management (5x5 Risk Matrix, Compliance Audits, Inspection Checklists)
+5. Environmental Management (Waste, Water, Air Emissions, Aspect-Impact Registers, CPCB/SPCB)
+6. Hazardous Materials & Chemical Safety (SDS/MSDS, UN GHS Labeling, Chemical Inventory)
+7. Sustainability & ESG (Scope 1, 2 & 3 GHG, ISO 14064, GRI, BRSR, CSRD)
+8. Energy Management (ISO 50001 Electricity & Decarbonization Tracking)
+9. Occupational Health & Industrial Hygiene (Medical Surveillance, Ergonomics, Noise & Exposure Monitoring)
+10. Emergency Preparedness & Response (ERP, Fire Safety, Mock Drills, Business Continuity)
+11. Compliance & Certification Support (ISO, OSHA, Factories Act, OSHWC Code, NBC)
+12. Legal & Regulatory Support (Configurable Legal Registers & Statutory Trackers)
+
+## Industries We Serve
+- Semiconductor Industry
+- Data Centers
+- Pharmaceutical & Biotechnology Industry
+- Manufacturing & Heavy Industrial Plants
+- MNC & Corporate Organizations
+- Construction & Infrastructure
+- FMCG & Supply Chain
+- Healthcare & Clinical Laboratories
+- All Other Global Industries (24+ additional sectors including Oil & Gas, Mining, Aviation, Logistics, Renewable Energy, Automotive, Chemicals, and Telecom)
+
+## Key Pages
+- Public Enterprise Homepage: /
+- Authenticated EHS Workspace & KPI Dashboard: /app
+- Health & Ownership Verification Endpoint: /api/health
+- Public Services & Industries API: /api/public/homepage
